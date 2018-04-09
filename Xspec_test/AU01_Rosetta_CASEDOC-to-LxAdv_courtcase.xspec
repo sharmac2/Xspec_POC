@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:description xmlns:x="http://www.jenitennison.com/xslt/xspec"
+    xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe"
+    xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni"
+    xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lncle="http://www.lexis-nexis.com/lncle"
+    xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt"
+    xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta"
+    xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnci="http://www.lexis-nexis.com/lnci"
+    xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:lnvx="http://www.lexis-nexis.com/lnvx"
+    xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:glp="http://www.lexis-nexis.com/glp"
+    xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:comm="http://www.lexis-nexis.com/glp/comm"
+    xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict"
+    xmlns:dig="http://www.lexis-nexis.com/glp/dig"
+    xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo"
+    xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:in="http://www.lexis-nexis.com/glp/in"
+    xmlns:leg="http://www.lexis-nexis.com/glp/leg"
+    xmlns:abstract="urn:x-lexisnexis:content:abstract:sharedservices:1"
+    xmlns:admincode="http://www.lexisnexis.com/xmlschemas/content/legal/administrative-code/1/"
+    xmlns:admindecision="urn:x-lexisnexis:content:administrative-decision:sharedservices:1"
+    xmlns:admindoc="urn:x-lexisnexis:content:administrative-document:sharedservices:1"
+    xmlns:annot="http://www.lexisnexis.com/xmlschemas/content/shared/annotations/1/"
+    xmlns:annotinfo="http://www.lexisnexis.com/xmlschemas/content/shared/annotations-info/1/"
+    xmlns:article="urn:x-lexisnexis:content:article:sharedservices:1"
+    xmlns:base="http://www.lexisnexis.com/xmlschemas/content/shared/base/1/"
+    xmlns:biblio="urn:x-lexisnexis:content:bibliography:sharedservices:1"
+    xmlns:billhist="urn:x-lexisnexis:content:billhistory:sharedservices:1"
+    xmlns:billtrack="urn:x-lexisnexis:content:billtracking:1"
+    xmlns:casedigest="http://www.lexisnexis.com/xmlschemas/content/legal/case-digest/1/"
+    xmlns:casehist="http://www.lexisnexis.com/xmlschemas/content/legal/case-history/1/"
+    xmlns:caseinfo="http://www.lexisnexis.com/xmlschemas/content/legal/case-information/1/"
+    xmlns:casesum="http://www.lexisnexis.com/xmlschemas/content/legal/case-summary/1/"
+    xmlns:cfi="http://www.lexisnexis.com/xmlschemas/content/shared/cite-finding-information/1/"
+    xmlns:classify="http://www.lexisnexis.com/xmlschemas/content/shared/classification/1/"
+    xmlns:compcase="urn:x-lexisnexis:content:compositecourtcase:sharedservices:1"
+    xmlns:const="http://www.lexisnexis.com/xmlschemas/content/legal/constitution/1/"
+    xmlns:contact="http://www.lexisnexis.com/xmlschemas/content/shared/contact/1/"
+    xmlns:courtcase="http://www.lexisnexis.com/xmlschemas/content/legal/courtcase/1/"
+    xmlns:courtfiling="http://www.lexisnexis.com/xmlschemas/content/legal/courtfiling/1/"
+    xmlns:courtorder="urn:x-lexisnexis:content:courtorder:sharedservices:1"
+    xmlns:courtrule="http://www.lexisnexis.com/xmlschemas/content/legal/courtrule/1/"
+    xmlns:currencystatement="http://www.lexisnexis.com/xmlschemas/content/shared/base/1/currencystatement"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:decision="http://www.lexisnexis.com/xmlschemas/content/legal/decision/1/"
+    xmlns:directory="urn:x-lexisnexis:content:directory:sharedservices:1"
+    xmlns:doc="http://www.lexisnexis.com/xmlschemas/content/shared/document-level-metadata/1/"
+    xmlns:entity="http://www.lexisnexis.com/xmlschemas/content/shared/identified-entities/1/"
+    xmlns:form="http://www.lexisnexis.com/xmlschemas/content/shared/form/1/"
+    xmlns:funddoc="urn:x-lexisnexis:content:fundamentallegaldocument:sharedservices:1"
+    xmlns:globalentity="urn:x-lexisnexis:content:identified-entities:global:1"
+    xmlns:guid="urn:x-lexisnexis:content:guid:global:1"
+    xmlns:index="urn:x-lexisnexis:content:publicationindex:sharedservices:1"
+    xmlns:jurisinfo="http://www.lexisnexis.com/xmlschemas/content/legal/jurisdiction-info/1/"
+    xmlns:legis="http://www.lexisnexis.com/xmlschemas/content/legal/legislation/1/"
+    xmlns:legishist="http://www.lexisnexis.com/xmlschemas/content/legal/legislation-history/1/"
+    xmlns:legisinfo="http://www.lexisnexis.com/xmlschemas/content/legal/legislation-info/1/"
+    xmlns:lnmeta="http://www.lexisnexis.com/xmlschemas/content/shared/lexisnexis-metadata/1/"
+    xmlns:lnsys="http://www.lexisnexis.com/xmlschemas/content/shared/lnsys/1/"
+    xmlns:lntbl="http://www.lexisnexis.com/xmlschemas/content/shared/lexisnexis-table-extensions/1/"
+    xmlns:location="http://www.lexisnexis.com/xmlschemas/content/shared/location/1/"
+    xmlns:lpa="urn:x-lexisnexis:content:parameter:lexispracticeadvisor:1"
+    xmlns:navaid="urn:x-lexisnexis:content:navigationaid:sharedservices:1"
+    xmlns:newsitem="http://www.lexisnexis.com/xmlschemas/content/news/newsitem/1/"
+    xmlns:org="urn:x-lexisnexis:content:organization:sharedservices:1"
+    xmlns:person="http://www.lexisnexis.com/xmlschemas/content/shared/person/1/"
+    xmlns:primlaw="http://www.lexisnexis.com/xmlschemas/content/legal/primarylaw/1/"
+    xmlns:primlawhist="http://www.lexisnexis.com/xmlschemas/content/legal/primarylaw-history/1/"
+    xmlns:primlawinfo="http://www.lexisnexis.com/xmlschemas/content/legal/primarylaw-info/1/"
+    xmlns:proc="http://www.lexisnexis.com/xmlschemas/content/shared/process-elements/1/"
+    xmlns:pubfm="http://www.lexisnexis.com/xmlschemas/content/shared/publication-front-matter/1/"
+    xmlns:pubinfo="http://www.lexisnexis.com/xmlschemas/content/shared/publication-info/1/"
+    xmlns:pubup="http://www.lexisnexis.com/xmlschemas/content/shared/publication-update/1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:ref="http://www.lexisnexis.com/xmlschemas/content/shared/reference/1/"
+    xmlns:register="http://www.lexisnexis.com/xmlschemas/content/legal/register/1/"
+    xmlns:registerinfo="http://www.lexisnexis.com/xmlschemas/content/legal/register-info/1/"
+    xmlns:regulation="urn:x-lexisnexis:content:regulation:sharedservices:1"
+    xmlns:rfc="http://www.lexisnexis.com/xmlschemas/content/legal/reason-for-citing/1/"
+    xmlns:seclaw="http://www.lexisnexis.com/xmlschemas/content/legal/secondary-law/1/"
+    xmlns:statcode="http://www.lexisnexis.com/xmlschemas/content/legal/statutorycode/1/"
+    xmlns:tei="http://www.tei-c.org/ns/1.0/" xmlns:topic="urn:x-lexisnexis:content:topic:global:1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    stylesheet="AU01_Rosetta_CASEDOC-to-LxAdv_courtcase.xsl">
+    <x:scenario
+        label="Scenario for testing W*7078814">
+        <x:context href="094nswlr_030001000.xml" select="/CASEDOC/case:body[1]/case:headnote[1]/case:info[1]/case:courtinfo[1]"></x:context>
+        <x:expect label="element 'caseinfo:caseinfo' should not have character [children]" test= "//courtcase:panel[1]/courtcase:judges[1]/normalize-space(text()[1])" select="':'"/>
+    </x:scenario>
+    <!--<x:scenario label="Scenario for testing W*7087016" pending="This W* is currently open">
+        <x:context href="039mv_054801000.xml" select="/CASEDOC/case:body[1]/case:headnote[1]/case:info[1]/case:courtinfo[1]"></x:context>
+        <x:expect label="elemnet jurisinfo:system should be created with value review" test="//jurisinfo:system/text()">review</x:expect>
+    </x:scenario>--> <!-- Priya Kaushal: 3/15/2017 : Removing this scenario from the xspec as this was a source data issue and fixed by editorial team -->
+    <x:scenario label="Scenario for testing W*7089573">
+        <x:context href="82ad_057301000.xml"/>
+        <x:expect label="If toc has a child page with a following sibling toc-entry, page should map to toc-entry/ref:page. The parent of ref:page should be the tocentry
+            that has been mapped from the following sibling of toc/page.
+            " test="/courtcase:courtcase/courtcase:body[1]/courtcase:opinions[1]/courtcase:prelim[1]/base:bodytext[1]/base:toc[1]/base:toc-entry[38]/ref:page[1]">
+            <ref:page num="577" page-scheme="ald" includeintoc="true" page-scheme-type="reporter-abbreviation"/>
+        </x:expect>
+        <x:expect label="//ref:page/@num='577' should be created only once" test="count(//ref:page/@num='577') = 1"/>
+        </x:scenario>
+    <x:scenario label="Scenario for testing W*7137100 | Reporter line suppressed in LA platform">
+        <x:context>
+            <case:author>
+                <person>
+                    <name.text>JUSTIN CARTER</name.text>
+                    <role>BARRISTER</role>
+                </person>
+            </case:author>
+        </x:context>
+        <x:expect label="for the working scenario , we should have the person:contributor element with contributor-type as author">
+            <note xmlns="http://www.lexisnexis.com/xmlschemas/content/shared/base/1/">
+                <byline>
+                    <person:contributor contributor-type="author">
+                        <person:person>
+                            <person:name.text>JUSTIN CARTER</person:name.text>
+                            <role>BARRISTER</role>
+                        </person:person>
+                    </person:contributor>
+                </byline>
+            </note>
+        </x:expect>
+    </x:scenario>
+</x:description>
