@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="18.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="AU01_testing.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="AU01_testing.xpr">
+        <folder path="."/>
+        <file name="../../7087016/AUS-00DG-20180105225535_Data/039mv_054801000.xml"/>
+    </projectTree>
+</project>

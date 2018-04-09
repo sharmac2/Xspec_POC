@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--<!DOCTYPE CASEDOC PUBLIC "-//LEXISNEXIS//DTD GLP Casedoc v006//EN" "casedoc-norm.dtd">-->
+<CASEDOC xml:lang="en-AU" type="fulltext" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe"
+ xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni"
+ xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lncle="http://www.lexis-nexis.com/lncle"
+ xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt"
+ xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta"
+ xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnci="http://www.lexis-nexis.com/lnci"
+ xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:lnvx="http://www.lexis-nexis.com/lnvx"
+ xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:glp="http://www.lexis-nexis.com/glp"
+ xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:comm="http://www.lexis-nexis.com/glp/comm"
+ xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict"
+ xmlns:dig="http://www.lexis-nexis.com/glp/dig"
+ xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo"
+ xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:in="http://www.lexis-nexis.com/glp/in"
+ xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+ <docinfo>
+  <docinfo:dpsi id-string="000L"/>
+  <docinfo:doc-heading>Re W and L (PARAMETERS OF PROTECTED ESTATE MANAGEMENT ORDERS) - (2014) 94
+   NSWLR 300 - 14 August 2014</docinfo:doc-heading>
+  <docinfo:doc-id>2014_94_NSWLR_300</docinfo:doc-id>
+  <docinfo:doc-lang lang="en"/>
+  <docinfo:doc-country iso-cc="AU"/>
+  <docinfo:hier>
+   <docinfo:hierlev role="ancestor">
+    <heading>
+     <title>94 NSWLR</title>
+    </heading>
+    <docinfo:hierlev role="me">
+     <heading>
+      <title>Re W and L (PARAMETERS OF PROTECTED ESTATE MANAGEMENT ORDERS) - (2014) 94 NSWLR 300 -
+       14 August 2014</title>
+     </heading>
+    </docinfo:hierlev>
+   </docinfo:hierlev>
+  </docinfo:hier>
+  <docinfo:bookseqnum>1987707680</docinfo:bookseqnum>
+  <docinfo:lbu-meta>
+   <docinfo:metaitem name="date" value="20140814"/>
+   <docinfo:metaitem name="juris" value="3"/>
+   <docinfo:metaitem name="court" value="9"/>
+   <docinfo:metaitem name="country" value="1"/>
+   <docinfo:metaitem name="lbu-sourcename" value="New South Wales Law Reports"/>
+   <docinfo:metaitem name="parent-docid" value="2014_94_NSWLR_300"/>
+   <docinfo:metaitem name="parent-filename" value="094nswlr_03000.xml"/>
+  </docinfo:lbu-meta>
+  <docinfo:selector>case</docinfo:selector>
+  <docinfo:alt-renditions>
+   <docinfo:alt-rendition>
+    <link type="pdf" filename="94_nswlr_300.pdf">Download authorised version in PDF</link>
+   </docinfo:alt-rendition>
+  </docinfo:alt-renditions>
+ </docinfo>
+
+ <case:body>
+  <case:headnote>
+   <case:length>13 Pages</case:length>
+   <case:info>
+    <case:casename>Re W and L (PARAMETERS OF PROTECTED ESTATE MANAGEMENT ORDERS)</case:casename>
+    <case:reportercite ln.user-displayed="false">
+     <ci:cite type="cite4thisdoc" searchtype="CASE-REF">
+      <ci:case>
+       <ci:caseinfo>
+        <ci:decisiondate year="2014"/>
+       </ci:caseinfo>
+       <ci:caseref>
+        <ci:reporter value="nswlr"/>
+        <ci:volume num="94"/>
+        <ci:page num="300"/>
+       </ci:caseref>
+      </ci:case>
+      <ci:content>
+       <citefragment searchtype="CASE-CITE-REF">(2014) 94 NSWLR 300</citefragment>
+      </ci:content>
+     </ci:cite>
+    </case:reportercite>
+    <case:courtinfo>
+     <case:juris>NSW</case:juris>
+     <case:courtname>Supreme Court of New South Wales (Equity Division, Protective
+      List)</case:courtname> : <case:judges>
+      <case:judge>Lindsay J (in Chambers)</case:judge>
+     </case:judges>
+     <case:courtcite><ci:cite type="parallel" searchtype="CASE-REF"><ci:content><citefragment
+         searchtype="CASE-CITE-REF"> [2014] NSWSC 1106
+      </citefragment></ci:content></ci:cite></case:courtcite>
+     <case:dates>
+      <case:hearingdates>14 August 2014</case:hearingdates></case:dates></case:courtinfo>
+   </case:info>
+   <catchwordgrp>
+    <catchwords>
+     <catchphrase>Mental Health</catchphrase>
+     <catchphrase>Manager of property</catchphrase>
+     <catchphrase>Appointment</catchphrase>
+     <catchphrase>Person incapable <nl/>of managing affairs</catchphrase>
+     <catchphrase>Application for appointment made in anticipation <nl/>of receipt of
+      property</catchphrase>
+     <catchphrase>Application for revocation made where <nl/>protected person without
+      property</catchphrase>. </catchwords>
+    <catchwords>
+     <catchphrase>Civil Procedure</catchphrase>
+     <catchphrase>Protective jurisdiction</catchphrase>
+     <catchphrase>Powers of court</catchphrase>
+     <catchphrase>Scope of <nl/>protective jurisdiction under <ci:cite searchtype="LEG-REF"
+         ><ci:content><citefragment searchtype="LEG-NAME-REF"><emph typestyle="it">Supreme Court Act
+          1970</emph></citefragment> (NSW), s&#x2009;23</ci:content></ci:cite></catchphrase>. </catchwords>
+    <catchwords>
+     <catchphrase>Civil Procedure</catchphrase>
+     <catchphrase>Protective jurisdiction</catchphrase>
+     <catchphrase>Powers of court</catchphrase>
+     <catchphrase>Standing in <nl/>relation to application regarding management
+     orders</catchphrase>. </catchwords>
+   </catchwordgrp>
+   <case:factsummary>
+    <p/>
+   </case:factsummary>
+   <case:decisionsummary>
+    <p>
+     <text>
+      <emph typestyle="it">Held</emph>: (1) The protective jurisdiction of the Supreme Court is not
+      dependent for <nl/>its existence, or exercise, upon the presence of property; but: (a) an
+      entitlement to <nl/>property of a person incapable of managing his or her affairs may provide
+      an <nl/>occasion upon which the jurisdiction can be invoked, to protect the interests of
+      <nl/>that person; (b) an important consideration in deciding whether to make, or to
+      <nl/>revoke, protected estate management orders is the utility of a manager for the
+      <nl/>particular property required to be managed; and (c) an absence of property under
+      <nl/>management is likely to tell decisively against the making of management orders <nl/>or
+      in favour of an order for revocation of such orders. (<ci:cite searchtype="CASE-REF"
+          ><ci:case><ci:caseinfo><ci:decisiondate year="2014"/></ci:caseinfo><ci:caseref ID="cr001"
+          ><ci:reporter value="nswlr"/><ci:volume num="94"/><ci:page num="300"
+         /></ci:caseref><ci:caseref anaphref="cr001" spanref="cr001-01"><ci:pinpoint
+          targettype="para" num="6"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr001-01"
+        >[6]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"
+          ><ci:case><ci:caseinfo><ci:decisiondate year="2014"/></ci:caseinfo><ci:caseref ID="cr002"
+          ><ci:reporter value="nswlr"/><ci:volume num="94"/><ci:page num="300"
+         /></ci:caseref><ci:caseref anaphref="cr002" spanref="cr002-01"><ci:pinpoint
+          targettype="para" num="11"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr002-01"
+        >[11]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"
+          ><ci:case><ci:caseinfo><ci:decisiondate year="2014"/></ci:caseinfo><ci:caseref ID="cr003"
+          ><ci:reporter value="nswlr"/><ci:volume num="94"/><ci:page num="300"
+         /></ci:caseref><ci:caseref anaphref="cr003" spanref="cr003-01"><ci:pinpoint
+          targettype="para" num="16"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr003-01"
+        >[16]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"
+          ><ci:case><ci:caseinfo><ci:decisiondate year="2014"/></ci:caseinfo><ci:caseref ID="cr004"
+          ><ci:reporter value="nswlr"/><ci:volume num="94"/><ci:page num="300"
+         /></ci:caseref><ci:caseref anaphref="cr004" spanref="cr004-01"><ci:pinpoint
+          targettype="para" num="18"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr004-01"
+        >[18]</ci:span></citefragment></ci:content></ci:cite>)</text>
+    </p>
+    <p>
+     <text>(2)&#x2002;Absent some special circumstance, if management orders are to be made
+      <nl/>affecting the estate of an incapable person who (through a tutor) has instituted
+      <nl/>proceedings claiming personal injury compensation, they should generally be <nl/>made
+      only after the determination of the compensation proceedings. Ordinarily, <nl/>the conduct of
+      the compensation proceedings should be left to the tutor appointed <nl/>in those proceedings,
+      for that purpose. (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate
+          year="2014"/></ci:caseinfo><ci:caseref ID="cr005"><ci:reporter value="nswlr"/><ci:volume
+          num="94"/><ci:page num="300"/></ci:caseref><ci:caseref anaphref="cr005" spanref="cr005-01"
+          ><ci:pinpoint targettype="para" num="39"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr005-01"
+         >[39]&#x2013;[41]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite
+       searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2014"
+         /></ci:caseinfo><ci:caseref ID="cr006"><ci:reporter value="nswlr"/><ci:volume num="94"
+          /><ci:page num="300"/></ci:caseref><ci:caseref anaphref="cr006" spanref="cr006-01"
+          ><ci:pinpoint targettype="para" num="46"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr006-01"
+        >[46]</ci:span></citefragment></ci:content></ci:cite>)</text>
+    </p>
+    <p>
+     <text>(3)&#x2002;If there is a need for a professional estate manager in the conduct of
+      <nl/>personal injury compensation proceedings on behalf of a person in need of
+      <nl/>protection, the prudent course may be to appoint such an entity as a receiver and
+      <nl/>manager pending determination of the proceedings, reserving questions about the
+      <nl/>identity of any protected estate manager until the size and nature of the person&#x2019;s
+      <nl/>estate, and his or her needs measured against that estate, are better known. (<ci:cite
+       searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2014"
+         /></ci:caseinfo><ci:caseref ID="cr007"><ci:reporter value="nswlr"/><ci:volume num="94"
+          /><ci:page num="300"/></ci:caseref><ci:caseref anaphref="cr007" spanref="cr007-01"
+          ><ci:pinpoint targettype="para" num="50"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr007-01"
+        >[50]</ci:span></citefragment></ci:content></ci:cite>)</text>
+    </p>
+    <p>
+     <text>(4)&#x2002;Nothing in the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+         searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and Guardian Act
+         2009</emph></citefragment> (NSW)</ci:content></ci:cite> operates to <nl/>deprive the
+      Supreme Court of its inherent, protective jurisdiction. Rather, the <nl/>legislation is
+      predicated on the court&#x2019;s retention of its inherent jurisdiction. (<ci:cite
+       searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2014"
+         /></ci:caseinfo><ci:caseref ID="cr008"><ci:reporter value="nswlr"/><ci:volume num="94"
+          /><ci:page num="300"/></ci:caseref><ci:caseref anaphref="cr008" spanref="cr008-01"
+          ><ci:pinpoint targettype="para" num="79"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr008-01"
+         >[79]&#x2013;[80]</ci:span></citefragment></ci:content></ci:cite>)</text>
+    </p>
+    <p>
+     <text>(5)&#x2002;As part of its inherent, protective jurisdiction (and independently, by virtue
+      <nl/>of the <ci:cite searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"
+          ><emph typestyle="it">Supreme Court Act 1970</emph></citefragment> (NSW),
+        s&#x2009;23</ci:content></ci:cite>, the Supreme Court has jurisdiction <nl/>to revoke
+      protected estate management orders affecting a person, notwithstanding <nl/>that the person
+      remains incapable of managing his or her affairs. (<ci:cite searchtype="CASE-REF"
+          ><ci:case><ci:caseinfo><ci:decisiondate year="2014"/></ci:caseinfo><ci:caseref ID="cr009"
+          ><ci:reporter value="nswlr"/><ci:volume num="94"/><ci:page num="300"
+         /></ci:caseref><ci:caseref anaphref="cr009" spanref="cr009-01"><ci:pinpoint
+          targettype="para" num="89"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr009-01"
+        >[89]</ci:span></citefragment></ci:content></ci:cite>)</text>
+    </p>
+    <page count="301" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+    <p>
+     <text>(6)&#x2002;A stranger may apply for the appointment of a protected estate manager or
+      <nl/>for the revocation of management orders upon an exercise of the Supreme Court&#x2019;s
+      <nl/>inherent jurisdiction. The question of standing to apply for an exercise of
+      <nl/>protective jurisdiction ultimately returns to the rationale for the protective
+      <nl/>jurisdiction itself: the need for an accessible remedy for the protection of a person
+      <nl/>who, unable to manage his or her affairs, is in need of protection. (<ci:cite
+       searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2014"
+         /></ci:caseinfo><ci:caseref ID="cr010"><ci:reporter value="nswlr"/><ci:volume num="94"
+          /><ci:page num="300"/></ci:caseref><ci:caseref anaphref="cr010" spanref="cr010-01"
+          ><ci:pinpoint targettype="para" num="92"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr010-01"
+         >[92]&#x2013;[93]</ci:span></citefragment></ci:content></ci:cite>)</text>
+    </p>
+    <case:consideredcases>
+     <p>
+      <text><ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"
+           ><emph typestyle="it">Re an Alleged Incapable Person</emph></citefragment>
+         <citefragment searchtype="CASE-CITE-REF">(1959) 77 WN (NSW)
+        156</citefragment></ci:content></ci:cite>, followed.</text>
+     </p>
+    </case:consideredcases>
+    <p>
+     <text>
+      <emph typestyle="it">Observation</emph> as to the interaction between non-adversarial,
+      protective proceed­ <nl/>ings and adversarial personal injury compensation litigation.
+       (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2014"
+         /></ci:caseinfo><ci:caseref ID="cr011"><ci:reporter value="nswlr"/><ci:volume num="94"
+          /><ci:page num="300"/></ci:caseref><ci:caseref anaphref="cr011" spanref="cr011-01"
+          ><ci:pinpoint targettype="para" num="37"/></ci:caseref></ci:case><ci:content><citefragment
+         searchtype="CASE-CITE-REF"><ci:span spanid="cr011-01"
+        >[37]</ci:span></citefragment></ci:content></ci:cite>)</text>
+    </p>
+   </case:decisionsummary>
+   <case:citations>
+    <heading>
+     <title>CASES CITED</title>
+    </heading>
+    <case:citetext>The following cases are cited in the judgment: <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Ability One Financial Management Pty Ltd v JB bht AB</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(2014)
+        11 ASTLR 155</citefragment>;<nl/><citefragment searchtype="CASE-CITE-REF">[2014]
+        NSWSC 245</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">AC v OC (a minor)</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[2014]
+      NSWSC 53</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Alleged Incapable Person, Re an</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1959)
+      77 WN (NSW) 156</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">C, Re</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[2012]
+      NSWSC 1097</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">CCR v PS (No 2)</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1986)
+      6 NSWLR 622</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Clarke, In re</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[1898]
+      1 Ch 336</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Countess of Bective v Federal Commissioner of Taxation</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1932) 47 CLR 417</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">[1932]<nl/>HCA 22</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Cranmer, Ex parte</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1806) 12 Ves Jun 445</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">33 ER 168</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">David bht the Protective Commissioner v David</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1993)
+      30 NSWLR 417</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Eve, Re</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1986) 31 DLR (4th) 1</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">[1986] 2 SCR 388</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Fermor, Ex parte</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1821) Jac 404</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">37 ER 903</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Gordon, In the matter of</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1847) 2 Ph 242</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">41 ER 935</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Gouder, Re</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[2005]
+      NSWSC 1116</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Holmes, In re</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1827) 4 Russ 182</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">38 ER 774</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Holt v Protective Commissioner</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1993)
+      31 NSWLR 227</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">JMK v RDC</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[2013]
+      NSWSC 1362</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">M v M</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[2013]
+      NSWSC 1495</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">MS v ES</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[1983]
+      3 NSWLR 199</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">PB v BB</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[2013]
+      NSWSC 1223</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Q, Re</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(Supreme Court (NSW), Young J, 29 May 1985,
+        unrep)</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">R v P</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(2001) 53 NSWLR 664</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">[2001] NSWCA 473</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">RAP v AEP</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">[1982]
+      2 NSWLR 508</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Richards v Gray</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(2013) 66 MVR 16</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">[2013] NSWCA 402</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Ridgeway v Darwin</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1802) 8 Ves Jun 65</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">32 ER 275</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Secretary, Department of Health and Community Services v JWB and
+        SMB</emph></citefragment>
+       <emph typestyle="it">(Marion&#x2019;s<nl/>Case)</emph>
+       <citefragment searchtype="CASE-CITE-REF">(1992) 175 CLR 218</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">[1992] HCA 15</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Sherwood v Sanderson</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1815) 19 Ves Jun 280</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">34 ER 521</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Truth About Motorways Pty Ltd v Macquarie Infrastructure Investment
+         Management<nl/>Ltd</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(2000) 200 CLR 591</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">[2000] HCA 11</citefragment></ci:content></ci:cite>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">Willett v Futcher</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(2005) 221 CLR 627</citefragment>; <citefragment
+        searchtype="CASE-CITE-REF">[2005] HCA 47</citefragment></ci:content></ci:cite>
+     <nl/>
+     <nl/>
+     <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+         typestyle="it">WM, In re (a person alleged to be of unsound mind)</emph></citefragment>
+       <citefragment searchtype="CASE-CITE-REF">(1903)
+      3 SR (NSW) 552</citefragment></ci:content></ci:cite>
+     <nl/></case:citetext>
+   </case:citations>
+  </case:headnote>
+  <case:content>
+   <case:typeofcase>
+    <heading>
+     <title>HEARING</title>
+    </heading>
+    <p>
+     <text>These were two applications under the court&#x2019;s protective jurisdiction in
+      <nl/>relation to the management of the estate of a person not able to manage his or <nl/>her
+      own affairs.</text>
+    </p>
+   </case:typeofcase>
+   <page count="302" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+   <case:judgments>
+    <case:dates>
+     <case:decisiondate>
+      <date year="2014" month="08" day="14">14 August 2014</date>
+     </case:decisiondate>
+    </case:dates>
+    <case:judgment subdoc="true" toc-caption="LINDSAY J.">
+     <case:courtinfo>
+      <case:judges ln.user-displayed="false">LINDSAY J.</case:judges>
+     </case:courtinfo>
+     <case:judgmentbody>
+      <p>
+       <text>
+        <emph typestyle="bf">LINDSAY J.</emph> &#x2003;</text>
+      </p>
+      <h align="left">
+       <emph typestyle="bf">Introduction</emph>
+      </h>
+      <p>
+       <pnum count="1">[1]</pnum>
+       <text>This judgment examines, from two contrasting perspectives, principles <nl/>governing
+        management of the estate of a person who, because of an inability to <nl/>manage his or her
+        own affairs, is in need of an exercise of the court&#x2019;s <nl/>protective
+        jurisdiction.</text>
+      </p>
+      <p>
+       <pnum count="2">[2]</pnum>
+       <text>One case (that of W) concerns an application for the appointment of a <nl/>protected
+        estate manager <emph typestyle="it">in anticipation</emph> of recovery of personal injury
+        <nl/>compensation, the only property of substance presently likely to be held by the
+        <nl/>subject person.</text>
+      </p>
+      <p>
+       <pnum count="3">[3]</pnum>
+       <text>The other (relating to L) concerns an application for revocation of <nl/>management
+        orders (referable to a person with a continuing inability to <nl/>manage his affairs)
+        because compensation awarded to him for personal injuries <nl/>has been <emph typestyle="it"
+         >exhausted</emph>, and there is presently no other property of substance to be
+        <nl/>managed.</text>
+      </p>
+      <h align="left">
+       <emph typestyle="bf">The nature of the protective jurisdiction</emph>
+      </h>
+      <p>
+       <pnum count="4">[4]</pnum>
+       <text>The protective jurisdiction of the court exists for the protection of the <nl/>person,
+        and property, of a person who, incapable of managing his or her <nl/>affairs, is in need of
+        protection.</text>
+      </p>
+      <p>
+       <pnum count="5">[5]</pnum>
+       <text>Whatever is done, or not done, in exercise of the jurisdiction is to be done, <nl/>or
+        not done, for the benefit, and in the interests, of the person in need of
+        <nl/>protection.</text>
+      </p>
+      <h align="left">
+       <emph typestyle="bf">Parameters of an order for protected estate management</emph>
+      </h>
+      <p>
+       <pnum count="6">[6]</pnum>
+       <text>The protective jurisdiction is not dependent for its existence, or exercise, <nl/>upon
+        the presence of property; but an entitlement to property residing in a <nl/>person incapable
+        of managing his or her affairs may provide an occasion upon <nl/>which, to protect the
+        interests of that person, the jurisdiction can be called into <nl/>service: <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">AC v OC (a minor)</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">[2014] NSWSC 53</citefragment> at
+          [45]&#x2013;[47]</ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re
+           Eve</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1986) 31<nl/>DLR (4th) 1</citefragment> at 14
+          and 16&#x2013;17; <citefragment searchtype="CASE-CITE-REF">[1986] 2 SCR 388</citefragment>
+          at 410&#x2013;411</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="7">[7]</pnum>
+       <text>The means by which the court endeavours to protect the property of a person <nl/>in
+        need of protection include an order for the appointment of a person, or <nl/>persons, to
+        manage the estate (property) of the person under the direction of <nl/>the court and (in
+        relation to an order made under the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and<nl/>Guardian Act
+            2009</emph></citefragment> (NSW)</ci:content></ci:cite>) the NSW Trustee and Guardian
+        (the NSW <nl/>Trustee).</text>
+      </p>
+      <p>
+       <pnum count="8">[8]</pnum>
+       <text>A management order is a means to an end, not an end in itself.</text>
+      </p>
+      <p>
+       <pnum count="9">[9]</pnum>
+       <text>Even if a declaration of incapacity has been made (for example, under <nl/><ci:cite
+         searchtype="LEG-REF"><ci:content>s&#x2009;41(1)(a) of the <citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and Guardian
+           Act</emph></citefragment></ci:content></ci:cite>) a person who lacks the <nl/>capacity to
+        manage his or her affairs in particular respects, but is otherwise <nl/>able to do so, may
+        be left to manage what he or she can self-manage: <ci:cite searchtype="LEG-REF"
+           ><ci:content><citefragment searchtype="LEG-NAME-REF"><emph typestyle="it">NSW<nl/>Trustee
+            and Guardian Act</emph></citefragment>, s&#x2009;40 and
+         s&#x2009;71(2)</ci:content></ci:cite>. Freedom of decision, freedom of <nl/>action,
+        engagement with community and self-reliance are important objects of <nl/>the <ci:cite
+         searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">NSW Trustee and Guardian Act</emph></citefragment>:
+          s&#x2009;39</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="10">[10]</pnum>
+       <text>The same is true of the general law. In the 19th century practice of the <nl/>English
+        Lord Chancellor that continues to inform the &#x201C;inherent&#x201D; jurisdiction of
+        <nl/>this court, a &#x201C;lunatic (by commission so found)&#x201D; could be left to manage
+        his or <page count="303" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>her
+        own affairs, so far as able, by an order granting him or her liberty to <nl/>engage in a
+        particular class of business, coupled with directions: for example, <nl/><ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">Ex parte Fermor</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1821) Jac 404</citefragment> at 404;
+           <citefragment searchtype="CASE-CITE-REF">37 ER 903</citefragment> at
+         903</ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">In the matter
+           of<nl/>Gordon</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1847) 2 Ph 242</citefragment>; <citefragment
+           searchtype="CASE-CITE-REF">41 ER 935</citefragment></ci:content></ci:cite>. As summarised
+        by HS&#x2009;Theobald, The <nl/>Law Relating to Lunacy (1924, Stevens and Sons, London) at
+        p&#x2009;41: &#x201C;The <nl/>appointment of a committee of the estate [that is, a protected
+        estate manager] is <nl/>not essential. In a proper case a lunatic so found may be left to
+        manage his <nl/>own estates [property].&#x201D;</text>
+      </p>
+      <p>
+       <pnum count="11">[11]</pnum>
+       <text>On an assessment of what is, or may be, a &#x201C;proper case&#x201D; for a
+        &#x201C;protected <nl/>person&#x201D; (defined, by <ci:cite searchtype="LEG-REF"
+          ><ci:content>s&#x2009;38 of the <citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">NSW Trustee and Guardian
+        Act</emph></citefragment></ci:content></ci:cite>, as a person in <nl/>respect of whom an
+        order has been made under Ch 4 of the Act or under the <nl/>
+        <emph typestyle="it">Guardianship Act 1987</emph> (NSW) for his or her estate to be subject
+        to <nl/>management under the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and Guardian
+           Act</emph></citefragment></ci:content></ci:cite>), or any other person in <nl/>need of
+        protection, to manage his or her own affairs, an important consider­ <nl/>ation is the
+        practical utility of a manager vis-a-vis property required to be <nl/>managed.</text>
+      </p>
+      <p>
+       <pnum count="12">[12]</pnum>
+       <text>Occupation of the <emph typestyle="it">office</emph> of a protected estate manager is
+        not, in theory, <nl/>contingent upon possession of property under management.</text>
+      </p>
+      <p>
+       <pnum count="13">[13]</pnum>
+       <text>A protected estate manager occupies a unique office as a publicly appointed, <nl/>and
+        publicly regulated, agent of a protected person: <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ability One
+            Financial<nl/>Management Pty Ltd v JB bht AB</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(2014) 11 ASTLR 155</citefragment>; <citefragment
+           searchtype="CASE-CITE-REF">[2014] NSWSC 245</citefragment><nl/>at
+          [166]&#x2013;[175]</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="14">[14]</pnum>
+       <text>The court can, as a matter of jurisdiction, appoint a manager to a presently
+        <nl/>unpropertied estate in anticipation of a protected person&#x2019;s receipt of property
+        <nl/>for management.</text>
+      </p>
+      <p>
+       <pnum count="15">[15]</pnum>
+       <text>A manager does not cease to hold office as a protected estate manager <nl/>merely
+        because property presently under management is exhausted or other­ <nl/>wise rendered
+        non-existent.</text>
+      </p>
+      <p>
+       <pnum count="16">[16]</pnum>
+       <text>That said, the practical utility of the office of a protected estate manager <nl/>does
+        generally depend upon the existence of property under management. <nl/>Without property, or
+        at least the prospect of property, there is no &#x201C;estate&#x201D; to <nl/>manage.
+        Without property, there is no fund from which to allow a manager, as <nl/>an accounting
+        party, to draw remuneration, and indemnification for expenses, <nl/>to which the manager may
+        be entitled: <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">Ability One Financial
+           Management</emph></citefragment> at<nl/>[74]&#x2013;[77]</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="17">[17]</pnum>
+       <text>The utility of a management order must, like other features of the protective
+        <nl/>jurisdiction, be measured by reference to whether it is of benefit to, and in the
+        <nl/>interests of, the protected person.</text>
+      </p>
+      <p>
+       <pnum count="18">[18]</pnum>
+       <text>Ordinarily, an absence of property under management is likely to tell <nl/>decisively
+        against the making of management orders, or decisively in favour of <nl/>an order for
+        revocation of management orders.</text>
+      </p>
+      <p>
+       <pnum count="19">[19]</pnum>
+       <text>The obligations of a manager of a protected estate (formerly known as a
+        <nl/>&#x201C;committee of the estate&#x201D;) are distinct from those of a guardian
+        (formerly <nl/>known as a &#x201C;committee of the person&#x201D;), though, in a particular
+        case, there may <nl/>be some intersection in the performance of the respective obligations
+        of each <nl/>office: Theobald, pp&#x2009;40&#x2013;46. See, for example, <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">Re C</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">[2012] NSWSC 1097</citefragment>
+          at<nl/>[46]&#x2013;[69]</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="20">[20]</pnum>
+       <text>Each case must, of course, be considered on its own facts, including not only
+        <nl/>actual facts presently known but also, so far as they can be known, prospective
+        <nl/>developments.</text>
+      </p>
+      <page count="304" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+      <p>
+       <pnum count="21">[21]</pnum>
+       <text>The management of one person&#x2019;s affairs by another, and administration of
+        <nl/>the court&#x2019;s protective jurisdiction generally, must, almost inevitably, be
+        <nl/>attended by a need to comply with formal requirements.</text>
+      </p>
+      <p>
+       <pnum count="22">[22]</pnum>
+       <text>The court endeavours to ensure that the practice of its Protective List is
+        <nl/>directed towards administration of the jurisdiction without strife in the simplest
+        <nl/>and least expensive way: Theobald, p&#x2009;382; <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">RAP v
+            AEP</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">[1982] 2 NSWLR 508</citefragment><nl/>at
+          512C&#x2013;D</ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">PB v
+           BB</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">[2013] NSWSC 1223</citefragment> at [10] and
+          [14]&#x2013;[16]</ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">M v
+           M</emph></citefragment><nl/><citefragment searchtype="CASE-CITE-REF">[2013] NSWSC
+           1495</citefragment> at [11]&#x2013;[13], [20], [50(f)] and
+          [50(m)]&#x2013;[50(p)]</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="23">[23]</pnum>
+       <text>Upon consideration of how to administer the jurisdiction in this way, care <nl/>needs
+        to be taken not to subordinate the interests of a person in need of <nl/>protection to the
+        convenience of others, including persons who, from time to <nl/>time, might be engaged in
+        management of their affairs or in advancement of <nl/>their interests.</text>
+      </p>
+      <p>
+       <pnum count="24">[24]</pnum>
+       <text>This requires an exercise of judgment by the court, often in a state of <nl/>imperfect
+        knowledge about the affairs of a person in need of protection, based <nl/>on accumulated
+        experience in other cases.</text>
+      </p>
+      <h align="left">
+       <emph typestyle="bf">An application for a management order in anticipation of receipt of an
+        <nl/>award of compensation for personal injuries (Re W)</emph>
+      </h>
+      <p>
+       <pnum count="25">[25]</pnum>
+       <text>By a summons filed in this court on 16 June 2014 the plaintiff (the father of <nl/>the
+        defendant) seeks, against the defendant W, orders of the type for which <nl/><ci:cite
+         searchtype="LEG-REF"><ci:content>s&#x2009;41 of the <citefragment searchtype="LEG-NAME-REF"
+            ><emph typestyle="it">NSW Trustee and Guardian
+         Act</emph></citefragment></ci:content></ci:cite> provides: </text>
+       <l>
+        <li>
+         <lilabel>(a)</lilabel>
+         <p>
+          <text>a declaration that W is incapable of managing her affairs: s&#x2009;41(1)(a)</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(b)</lilabel>
+         <p>
+          <text>an order that the estate of W be subject to management under the <nl/><ci:cite
+            searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+               typestyle="it">NSW Trustee and Guardian Act</emph></citefragment>:
+             s&#x2009;41(1)(a)</ci:content></ci:cite></text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(c)</lilabel>
+         <p>
+          <text>an order that a named licensed trustee company be appointed as <nl/>manager of the
+           estate of W: s&#x2009;41(1)(b).</text>
+         </p>
+        </li>
+       </l>
+      </p>
+      <p>
+       <pnum count="26">[26]</pnum>
+       <text>Nothing presently turns on the identity of the proposed manager. It is a
+        <nl/>&#x201C;licensed trustee company&#x201D; within the meaning of the <ci:cite
+         searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">Corporations Act 2001</emph></citefragment><nl/>(Cth),
+          s&#x2009;601RAA</ci:content></ci:cite>, and is governed by Ch 5D of that Act. In the
+        abstract, prima <nl/>facie it is, accordingly, a &#x201C;suitable person&#x201D; for the
+        appointment as a manager <nl/>within the meaning of the <ci:cite searchtype="LEG-REF"
+           ><ci:content><citefragment searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and
+            Guardian Act</emph></citefragment></ci:content></ci:cite>: <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">Ability One<nl/>Financial Management</emph></citefragment> at
+          [182]</ci:content></ci:cite>. Whether it is in fact suitable for appointment <nl/>to
+        management of the estate of W, or any other protected estate, requires an <nl/>assessment of
+        the facts of the particular case at the time when a manager is to <nl/>be appointed.</text>
+      </p>
+      <p>
+       <pnum count="27">[27]</pnum>
+       <text>W was born in 1989. She is presently aged 25 years. She lives with the <nl/>plaintiff,
+        her father, who cares for her as a single parent.</text>
+      </p>
+      <p>
+       <pnum count="28">[28]</pnum>
+       <text>There is no evidence before the court suggesting that notice of the present
+        <nl/>application has been given to W&#x2019;s mother or other members of her family. It
+        <nl/>may be that the court will dispense with any requirement for such notice, but a
+        <nl/>dispensation order of that character is not lightly, or routinely, made.</text>
+      </p>
+      <p>
+       <pnum count="29">[29]</pnum>
+       <text>W was involved in a serious motor vehicle collision in 2011, as a result of <nl/>which
+        she suffered brain damage and related injuries. She has little property. <nl/>Her only
+        income is a Disability Support Pension.</text>
+      </p>
+      <p>
+       <pnum count="30">[30]</pnum>
+       <text>On 22 April 2014, W (by her father acting as her tutor) filed a statement of <nl/>claim
+        in the District Court of New South Wales claiming, in negligence, <nl/>damages for personal
+        injuries suffered in the motor vehicle collision.</text>
+      </p>
+      <p>
+       <pnum count="31">[31]</pnum>
+       <text>The defendant against whom that claim has been made has admitted liability,
+        <nl/>leaving the quantum of W&#x2019;s unliquidated claim for damages to be assessed.</text>
+      </p>
+      <page count="305" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+      <p>
+       <pnum count="32">[32]</pnum>
+       <text>The District Court has listed its proceedings for a status conference on
+        <nl/>30 October 2014.</text>
+      </p>
+      <p>
+       <pnum count="33">[33]</pnum>
+       <text>The solicitor for the plaintiff (W&#x2019;s father) anticipates that the trial of the
+        <nl/>District Court proceedings will be held early in that court&#x2019;s 2015 term, no less
+        <nl/>than six months or so in the future.</text>
+      </p>
+      <p>
+       <pnum count="34">[34]</pnum>
+       <text>Affidavits filed in support of the plaintiff&#x2019;s Protective List summons include
+        <nl/>two medical reports evidently prepared in support of W&#x2019;s claim for personal
+        <nl/>injury compensation. One is dated 31 October 2013. The other is dated <nl/>5 November
+        2013. They may be updated, or contested, in the compensation <nl/>proceedings.</text>
+      </p>
+      <p>
+       <pnum count="35">[35]</pnum>
+       <text>The affidavit sworn by the plaintiff, personally, in support of the summons <nl/>(sworn
+        on 6 June 2014, but evidently prepared before the commencement of <nl/>the District Court
+        proceedings) includes a paragraph to the following effect: <nl/>&#x201C;In the event that
+        [W] does receive significant lump sum compensation, I have <nl/>significant concerns
+        regarding her ability to manage her financial affairs.&#x201D;</text>
+      </p>
+      <p>
+       <pnum count="36">[36]</pnum>
+       <text>This, and other features of the case, suggest that: (a) but for the prospect of <nl/>an
+        award of &#x201C;significant&#x201D; compensation being made in her favour, there would
+        <nl/>be no necessity for, or utility in, the making of orders for management of W&#x2019;s
+        <nl/>estate, by a licensed trustee company, as a protected person; and (b) manage­ <nl/>ment
+        orders are sought from this court, at this stage, largely for the <nl/>convenience of the
+        solicitor having carriage of the District Court proceedings <nl/>or, perhaps, to pre-empt a
+        contest in the District Court about the nature or <nl/>extent of W&#x2019;s injuries or the
+        compensation to which she may be entitled.</text>
+      </p>
+      <p>
+       <pnum count="37">[37]</pnum>
+       <text>At the interface between protective and compensation proceedings, vigilance <nl/>is
+        required lest non-adversarial, protective proceedings are subordinated to the <nl/>demands
+        of the conduct of personal injury compensation litigation, the <nl/>dynamic of which can be
+        antithetical to an exercise of the protective <nl/>jurisdiction.</text>
+      </p>
+      <p>
+       <pnum count="38">[38]</pnum>
+       <text>As presently advised, I am not persuaded that it would be for the benefit, or <nl/>in
+        the interests, of W to make management orders in advance of the <nl/>determination of the
+        litigation.</text>
+      </p>
+      <p>
+       <pnum count="39">[39]</pnum>
+       <text>Absent management orders, the District Court proceedings are being <nl/>conducted by
+        the plaintiff, as tutor for W. There is nothing in the evidence to <nl/>suggest that he is
+        unable to perform that role, or that the services of a licensed <nl/>trustee company are
+        required for the conduct of the litigation.</text>
+      </p>
+      <p>
+       <pnum count="40">[40]</pnum>
+       <text>There is no suggestion at all that the conduct of the proceedings requires a
+        <nl/>protected estate manager, or a receiver, as distinct from merely a tutor
+        <nl/>authorised by rules of court (<ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF">Uniform Civil Procedure Rules 2005</citefragment>
+          (NSW)<nl/>(UCPR), Pt&#x2009;7 Div&#x2009;4
+         rr&#x2009;7.13&#x2013;7.18</ci:content></ci:cite>) to conduct the proceedings on behalf of
+        W. <nl/>This case is not in that respect similar to the protective proceedings that gave
+        <nl/>rise to <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">R v P</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(2001) 53 NSWLR 664</citefragment>; <citefragment
+           searchtype="CASE-CITE-REF">[2001] NSWCA 473</citefragment> at [4], [18]
+          and<nl/>[63]&#x2013;[64]</ci:content></ci:cite>. W&#x2019;s father appears well able to
+        provide instructions for the conduct <nl/>of the District Court proceedings. Cf,
+        PLG&#x2009;Brereton, &#x201C;Acting for the incapable <nl/>&#x2014; a delicate
+        balance&#x201D; (2012) 35 <emph typestyle="it">Australian Bar Review</emph> 244.</text>
+      </p>
+      <p>
+       <pnum count="41">[41]</pnum>
+       <text>If management orders were to be made now, the effect of those orders, as <nl/>sought,
+        would probably be to take the conduct of the District Court <nl/>proceedings out of the
+        hands of the plaintiff and, subject to the directions of <nl/>the NSW Trustee and this
+        court, to place them in the hands of the protected <nl/>estate manager: <ci:cite
+         searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">NSW Trustee and Guardian Act</emph></citefragment>,
+          s&#x2009;71</ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">David bht the
+            Protective<nl/>Commissioner v David</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1993) 30 NSWLR
+         417</citefragment></ci:content></ci:cite>; <ci:cite searchtype="LEG-REF"
+           ><ci:content><citefragment searchtype="LEG-NAME-REF">UCPR</citefragment>,
+          r&#x2009;7.15</ci:content></ci:cite>. The summons <page count="306" reporter="NSWLR"
+         text="(2014) 94 NSWLR 300 at " subdoc="true"/>seeks no directions relating to the conduct
+        of the District Court proceedings <nl/>consequent upon the appointment of a protected estate
+        manager.</text>
+      </p>
+      <p>
+       <pnum count="42">[42]</pnum>
+       <text>The evidence adduced in support of the summons does not address, in any
+        <nl/>substantial way, factors bearing upon forensic decisions that have been made, <nl/>or
+        are likely to be required to be made, in the conduct of the District Court <nl/>proceedings.
+        The affidavit of the prospective manager, verifying its consent to <nl/>appointment, and its
+        intention to claim remuneration for service as a manager, <nl/>provides no evidence of any
+        familiarity with, or strategy for, the conduct of the <nl/>proceedings.</text>
+      </p>
+      <p>
+       <pnum count="43">[43]</pnum>
+       <text>The nominated manager may well be suitable for appointment after the <nl/>completion of
+        the District Court proceedings when, the plaintiff hopes, there <nl/>will be need of a <emph
+         typestyle="it">funds</emph> manager. However, the evidence does not permit a <nl/>finding
+        that it is <emph typestyle="it">presently</emph> suitable for appointment as manager of
+        W&#x2019;s estate, <nl/>at a time when W&#x2019;s claim for compensation has yet to be fully
+        litigated. I am <nl/>not prepared to infer, merely from the status of the plaintiff&#x2019;s
+        nominee as a <nl/>licensed trustee company, that it is familiar enough with the proceedings
+        to be <nl/>willing, able, and sufficiently informed of what is required, to take over
+        <nl/>management of the litigation.</text>
+      </p>
+      <p>
+       <pnum count="44">[44]</pnum>
+       <text>Viewed as a whole, the evidence adduced in support of the summons invites <nl/>the
+        observation that the making of orders for management of W&#x2019;s estate as a
+        <nl/>protected estate is regarded, on the plaintiff&#x2019;s side of the record, as: (a)
+        merely <nl/>an incident of the efficient conduct by the plaintiff&#x2019;s solicitor of a
+        personal <nl/>injury claim; and (b) subordinate to questions that might arise in the conduct
+        of <nl/>such a claim.</text>
+      </p>
+      <p>
+       <pnum count="45">[45]</pnum>
+       <text>This is not, manifestly, a case in which there is a need for, or utility in,
+        <nl/>placement of the cart before the horse.</text>
+      </p>
+      <p>
+       <pnum count="46">[46]</pnum>
+       <text>Absent some special circumstance, if management orders are to be made <nl/>affecting
+        W&#x2019;s estate they should be made when the District Court proceedings <nl/>have been
+        determined. No reasoned case has been made of a need for an <nl/>exercise of protective
+        jurisdiction in aid of the District Court proceedings.</text>
+      </p>
+      <p>
+       <pnum count="47">[47]</pnum>
+       <text>Evidence in support of a claim for funds management expenses as part of the
+        <nl/>District Court proceedings (sanctioned by <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Willett v
+            Futcher</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(2005) 221 CLR<nl/>627</citefragment>;
+           <citefragment searchtype="CASE-CITE-REF">[2005] HCA
+         47</citefragment></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Richards v
+            Gray</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(2013) 66 MVR 16</citefragment>; <citefragment
+           searchtype="CASE-CITE-REF">[2013]<nl/>NSWCA 402</citefragment> at
+          [152]&#x2013;[160]</ci:content></ci:cite>) does not require earlier appointment of a
+        <nl/>protected estate manager.</text>
+      </p>
+      <p>
+       <pnum count="48">[48]</pnum>
+       <text>
+        <emph typestyle="bf">Without</emph> a demonstrated need for the appointment of a protected
+        estate <nl/>manager <emph typestyle="it">to conduct the litigation</emph>, <emph
+         typestyle="bf">without</emph> information about the role proposed <nl/>to be played by a
+        protected estate manager <emph typestyle="it">in the conduct of the litigation</emph>, and <nl/>
+        <emph typestyle="bf">without</emph> precise knowledge of fees proposed to be charged by a
+        protected <nl/>estate manager <emph typestyle="it">for the conduct of the litigation</emph>,
+        the court should be slow to <nl/>involve in contested proceedings for personal injury
+        compensation an entity <nl/>which has, or may have, a vested commercial interest (which may
+        differ from <nl/>that of the person in need of protection) in the outcome of those
+        proceedings.</text>
+      </p>
+      <p>
+       <pnum count="49">[49]</pnum>
+       <text>Decisions made in the conduct of personal injury compensation claims on <nl/>behalf of
+        a person in need of protection must be taken (for the benefit, and in <nl/>the interests, of
+        the individual) independently, and manifestly independently, of <nl/>the commercial
+        interests of a business entity that has been appointed, or aspires <nl/>to be appointed, as
+        manager of the individual&#x2019;s estate.</text>
+      </p>
+      <p>
+       <pnum count="50">[50]</pnum>
+       <text>If there is a need for a professional estate manager in the conduct of personal
+        <nl/>injury compensation proceedings on behalf of a person in need of protection, <nl/>the
+        prudent course may be to appoint such an entity as a <emph typestyle="bf">receiver</emph>
+        (in exercise <page count="307" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"
+        />of jurisdiction identified in <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">JMK v RDC</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">[2013] NSWSC 1362</citefragment> at
+          [53]&#x2013;[56]</ci:content></ci:cite>) <nl/>pending determination of the proceedings,
+        reserving questions about the <nl/>identity of any <emph typestyle="bf">protected estate
+         manager</emph> until the size and nature of the <nl/>estate, and the needs of the person
+        measured against that estate, are better <nl/>known.</text>
+      </p>
+      <p>
+       <pnum count="51">[51]</pnum>
+       <text>The appointment of a protected estate manager is not a mere formality. Nor <nl/>is the
+        selection of a manager. Although due regard is had to the views of <nl/>family and carers of
+        a protected person, the protective jurisdiction is not a <nl/>&#x201C;consent
+        jurisdiction&#x201D; or anything of the like: <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it"
+           >M v M</emph></citefragment></ci:content></ci:cite> at [50].</text>
+      </p>
+      <p>
+       <pnum count="52">[52]</pnum>
+       <text>One of the factors that may bear upon the identity of any manager appointed <nl/>to
+        manage W&#x2019;s estate might be the amount of any compensation awarded to <nl/>her:
+         <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">Holt v Protective Commissioner</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1993) 31 NSWLR 227</citefragment> at 242E
+          and<nl/>243D</ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it"
+           >M v M</emph></citefragment> at [50(g)] and [50(m)]</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="53">[53]</pnum>
+       <text>In making decisions about W&#x2019;s welfare, this court should, moreover, be
+        <nl/>entitled to the benefit of evidence that may emerge as material in the conduct <nl/>of
+        the District Court proceedings.</text>
+      </p>
+      <p>
+       <pnum count="54">[54]</pnum>
+       <text>The appropriate orders, for the present, are the following: </text>
+       <l>
+        <li>
+         <lilabel>(1)</lilabel>
+         <p>
+          <text>Order that the Summons be listed before the Protective List Judge, <nl/>for
+           directions or hearing as the nature of the case may require, on <nl/>16 March
+           2015.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(2)</lilabel>
+         <p>
+          <text>Note that related proceedings (numbered &#x2014; - &#x2014; in the &#x2014; -
+           &#x2014; <nl/>Registry of the District Court of New South Wales) have yet to be
+           <nl/>determined, and are presently likely to be the subject of a trial listed <nl/>for
+           early in 2015.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(3)</lilabel>
+         <p>
+          <text>Reserve liberty to apply to the Protective List Judge generally.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(4)</lilabel>
+         <p>
+          <text>Reserve all questions of costs.</text>
+         </p>
+        </li>
+       </l>
+      </p>
+      <h align="left">
+       <emph typestyle="bf">Revocation of management orders affecting a protected person still
+        <nl/>incapable of self-management (Re L)</emph>
+      </h>
+      <p>
+       <pnum count="55">[55]</pnum>
+       <text>L became a protected person when, on 30 July 2003, in proceedings <nl/>numbered 27 of
+        2003 in the Protective List, the court, on application of his <nl/>mother, made a
+        declaration that he was incapable of managing his affairs, and <nl/>an order that she be
+        appointed to manage his estate, pursuant to the <ci:cite searchtype="LEG-REF"
+           ><ci:content><citefragment searchtype="LEG-NAME-REF"><emph typestyle="it"
+            >Protected<nl/>Estates Act 1983</emph></citefragment>
+        (NSW)</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="56">[56]</pnum>
+       <text>The <ci:cite searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"
+            ><emph typestyle="it">Protected Estates Act</emph></citefragment></ci:content></ci:cite>
+        was repealed, and replaced, by the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee<nl/>and Guardian
+           Act</emph></citefragment></ci:content></ci:cite>, with effect from 1 July 2009.</text>
+      </p>
+      <p>
+       <pnum count="57">[57]</pnum>
+       <text>The declaration and orders made against L under the <ci:cite searchtype="LEG-REF"
+           ><ci:content><citefragment searchtype="LEG-NAME-REF"><emph typestyle="it">Protected
+            Estates Act</emph></citefragment></ci:content></ci:cite>
+        <nl/>correspond, in form and substance, with those subsequently made against W <nl/>under
+        the <ci:cite searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">NSW Trustee and Guardian
+        Act</emph></citefragment></ci:content></ci:cite>. Section 13(1) of the 1983 Act <nl/>became
+        s&#x2009;41(1)(a) of the 2009 Act. Section 22 of the earlier Act became
+        <nl/>s&#x2009;41(1)(b) of the later Act.</text>
+      </p>
+      <p>
+       <pnum count="58">[58]</pnum>
+       <text>The office of the Protective Commissioner (referred to in the <ci:cite
+         searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">Protected<nl/>Estates Act</emph></citefragment></ci:content></ci:cite>)
+        was subsumed in that of the NSW Trustee under the <ci:cite searchtype="LEG-REF"
+           ><ci:content><citefragment searchtype="LEG-NAME-REF"><emph typestyle="it">NSW
+            Trustee<nl/>and Guardian Act</emph></citefragment></ci:content></ci:cite>: <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">M v M</emph></citefragment> at [13]</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="59">[59]</pnum>
+       <text>L was born in 1968 with Down&#x2019;s syndrome. He is presently aged nearly 46
+        <nl/>years. He has never been, and in all likelihood never will be, capable of <nl/>managing
+        his own affairs. He has remained, at home, in the care of his parents.</text>
+      </p>
+      <p>
+       <pnum count="60">[60]</pnum>
+       <text>L was hit by a motor vehicle while crossing a road on 17 February 1993. He
+        <nl/>suffered injuries for which he received compensation (of approximately <nl/>$166,000
+        net of expenses), in proceedings conducted by his father acting as his <nl/>tutor, in the
+        District Court of New South Wales.</text>
+      </p>
+      <page count="308" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+      <p>
+       <pnum count="61">[61]</pnum>
+       <text>In the subsequent Protective List proceedings culminating in the making of
+        <nl/>management orders, L&#x2019;s mother was the plaintiff, and he was named as the
+        <nl/>defendant, with his father named as his tutor.</text>
+      </p>
+      <p>
+       <pnum count="62">[62]</pnum>
+       <text>The only property of substance L has ever owned has been the compensation <nl/>moneys
+        awarded to him by the District Court.</text>
+      </p>
+      <p>
+       <pnum count="63">[63]</pnum>
+       <text>Those moneys have been spent. The NSW Trustee is satisfied (to a standard <nl/>of
+        accounting consistent with <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">Countess of Bective v Federal
+            Commissioner of<nl/>Taxation</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1932) 47 CLR 417</citefragment> at
+          420&#x2013;423; <citefragment searchtype="CASE-CITE-REF">[1932] HCA
+          22</citefragment></ci:content></ci:cite>) that they have been <nl/>applied for the benefit
+        of L, and that his family continues to care for him.</text>
+      </p>
+      <p>
+       <pnum count="64">[64]</pnum>
+       <text>In substance, L&#x2019;s estate now comprises only the periodic social welfare
+        <nl/>payments (a disability pension) he receives from the Commonwealth agency,
+        <nl/>Centrelink.</text>
+      </p>
+      <p>
+       <pnum count="65">[65]</pnum>
+       <text>By a summons filed on 5 February 2014 (in the current proceedings <nl/>numbered
+        2014/00036701), L&#x2019;s mother seeks an order that the management <nl/>orders of 30 July
+        2003 be &#x201C;rescinded&#x201D;. L is the defendant named in the <nl/>summons.</text>
+      </p>
+      <p>
+       <pnum count="66">[66]</pnum>
+       <text>The relief claimed in the summons is sought, squarely, on the basis that, the
+        <nl/>property under management having been substantially consumed, the manage­ <nl/>ment
+        orders no longer serve a useful purpose despite the fact that L continues <nl/>to be unable
+        to manage his own affairs.</text>
+      </p>
+      <p>
+       <pnum count="67">[67]</pnum>
+       <text>If the relief sought in the summons is to be granted, it probably must be <nl/>granted
+        by an exercise of the court&#x2019;s inherent jurisdiction, or the jurisdiction
+        <nl/>conferred on the court by the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">Supreme Court Act
+           1970</emph></citefragment> (NSW) (SCA), s&#x2009;23</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="68">[68]</pnum>
+       <text>That is because: </text>
+       <l>
+        <li>
+         <lilabel>(a)</lilabel>
+         <p>
+          <text>The only express power for the revocation of management orders <nl/>contained in the
+            <ci:cite searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+               typestyle="it">NSW Trustee and Guardian
+            Act</emph></citefragment></ci:content></ci:cite> is that contained in <nl/>s&#x2009;86
+           of the Act.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(b)</lilabel>
+         <p>
+          <text>Section 86 empowers the court to revoke management orders on an <nl/>application by
+           a protected person if the court is satisfied that the <nl/>protected person is capable of
+           managing his or her affairs.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(c)</lilabel>
+         <p>
+          <text>L lacks the mental capacity to make a s&#x2009;86 application and does not
+           <nl/>purport to do so.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(d)</lilabel>
+         <p>
+          <text>Even if the court were to take the view that a s&#x2009;86 application could <nl/>be
+           made by a tutor acting on behalf of a protected person (as <nl/>contemplated, in a
+           different context, in <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+              searchtype="CASE-NAME-REF"><emph typestyle="it">Re Gouder</emph></citefragment>
+             <citefragment searchtype="CASE-CITE-REF">[2005] NSWSC<nl/>1116</citefragment> at
+             [5]</ci:content></ci:cite>), the second limb of s&#x2009;86(1) cannot be met. The court
+           <nl/>cannot be satisfied that L is capable of managing his affairs. The <nl/>contrary is
+           the fact. He remains incapable.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(e)</lilabel>
+         <p>
+          <text>Although other provisions of the <ci:cite searchtype="LEG-REF"
+              ><ci:content><citefragment searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee
+               and Guardian Act</emph></citefragment></ci:content></ci:cite>
+           <nl/>(particularly, s&#x2009;40, s&#x2009;64, s&#x2009;65 and s&#x2009;71) might be
+           deployed to modify <nl/>or ameliorate the operation of management orders, the presence of
+           <nl/>s&#x2009;86 in the Act as the only express power of revocation of such <nl/>orders
+           militates against a construction of the Act that locates another <nl/>revocation power in
+           an implication without resort to the court&#x2019;s <nl/>inherent or SCA, s&#x2009;23
+           jurisdiction.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(f)</lilabel>
+         <p>
+          <text>Although <ci:cite searchtype="LEG-REF"><ci:content>s&#x2009;47 of the <citefragment
+              searchtype="LEG-NAME-REF"><emph typestyle="it">Interpretation Act
+              1987</emph></citefragment> (NSW)</ci:content></ci:cite> provides an <nl/>express
+           legislative warrant for removal and replacement of a <nl/>protected estate manager
+            (<ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"
+               ><emph typestyle="it">Holt v Protective Commissioner</emph></citefragment>
+             at<nl/>237G&#x2013;238A</ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"
+              ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it"
+               >M v M</emph></citefragment> at [30]&#x2013;[33]</ci:content></ci:cite>), it provides
+           no clear foundation <nl/>for revocation of management orders (including a declaration of
+           <nl/>incapacity) in toto.</text>
+         </p>
+        </li>
+       </l>
+      </p>
+      <page count="309" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+      <p>
+       <pnum count="69">[69]</pnum>
+       <text>It is not necessary, in the current proceedings, to explore the outer limits of
+        <nl/>the express terms of the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and Guardian
+           Act</emph></citefragment></ci:content></ci:cite> or <ci:cite searchtype="LEG-REF"
+          ><ci:content>s&#x2009;47 of the<nl/><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">Interpretation Act</emph></citefragment></ci:content></ci:cite>. Resort
+        can, and should, be had to the court&#x2019;s inherent <nl/>jurisdiction and SCA,
+        s&#x2009;23 jointly and severally.</text>
+      </p>
+      <p>
+       <pnum count="70">[70]</pnum>
+       <text>Confronted by a need to form a view, not only about the facts of the case, <nl/>but
+        also about the proper construction and practical operation of the <ci:cite
+         searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">NSW<nl/>Trustee and Guardian
+         Act</emph></citefragment></ci:content></ci:cite>, and the availability and scope of the
+        court&#x2019;s <nl/>jurisdiction to grant relief of the nature sought in the summons, I gave
+        a <nl/>direction (on 2 June 2014) that the NSW Trustee, on notice to the plaintiff
+        (L&#x2019;s <nl/>mother), provide a report to the court on a series of questions.</text>
+      </p>
+      <p>
+       <pnum count="71">[71]</pnum>
+       <text>The NSW Trustee complied with that direction by filing a responsive Report <nl/>on
+        16 June 2014. These reasons for judgment have been prepared with the <nl/>benefit of that
+        Report.</text>
+      </p>
+      <p>
+       <pnum count="72">[72]</pnum>
+       <text>It is sufficient for present purposes to record that, having confirmed the
+        <nl/>accuracy of the underlying facts, the NSW Trustee (by Catherine Phang, <nl/>Principal
+        Legal Officer) submitted that:</text>
+       <blockquote>
+        <p>
+         <text>&#x201C;in this case it is in the interests of and for the benefit of [L] for the
+          Court to use <nl/>its inherent jurisdiction to revoke the orders made on 30 July 2003 as: </text>
+         <l>
+          <li>
+           <lilabel>(a)</lilabel>
+           <p>
+            <text>[L&#x2019;s] estate now consists only of the Centrelink payment [he period­
+             <nl/>ically receives].</text>
+           </p>
+          </li>
+          <li>
+           <lilabel>(b)</lilabel>
+           <p>
+            <text>[L&#x2019;s mother] can continue to be involved to [assist L] in managing the
+             <nl/>Centrelink payment without the need for a financial management order.</text>
+           </p>
+          </li>
+          <li>
+           <lilabel>(c)</lilabel>
+           <p>
+            <text>there appears to be a loving and caring family relationship [between L, <nl/>his
+             parents and his siblings] such that there does not appear to be any <nl/>real risk that
+             [L] will be disadvantaged in the conduct of his affairs or <nl/>that money or property
+             may be dissipated&#x201D;.</text>
+           </p>
+          </li>
+         </l>
+        </p>
+       </blockquote>
+      </p>
+      <p>
+       <pnum count="73">[73]</pnum>
+       <text>In submissions leading to that submission, the NSW Trustee drew attention <nl/>to the
+        width of both the court&#x2019;s inherent jurisdiction (preserved by SCA, s&#x2009;22)
+        <nl/>and the jurisdiction conferred on the court by s&#x2009;23 of that Act.</text>
+      </p>
+      <p>
+       <pnum count="74">[74]</pnum>
+       <text>Section 23 provides that &#x201C;[the] Court shall have all jurisdiction which may
+        <nl/>be necessary for the administration of justice in New South Wales&#x201D;.</text>
+      </p>
+      <p>
+       <pnum count="75">[75]</pnum>
+       <text>It has been recognised as a source of protective jurisdiction: <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">Re Q</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(Supreme<nl/>Court (NSW), Young J, 29 May 1985,
+           unrep)</citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it"
+           >Re C</emph></citefragment></ci:content></ci:cite> at [64]&#x2013;[66].</text>
+      </p>
+      <p>
+       <pnum count="76">[76]</pnum>
+       <text>In <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"
+            ><emph typestyle="it">Re C</emph></citefragment></ci:content></ci:cite>, Young J treated
+        the court&#x2019;s inherent jurisdiction and that derived <nl/>from SCA, s&#x2009;23 as
+        convergent, and described that blended jurisdiction in terms <nl/>similar to, but perhaps
+        more expansive than, the early 19th century cases <nl/>associated with Lord Eldon which (as
+        explained in <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">PB v BB</emph></citefragment> at
+          [38]&#x2013;[55]</ci:content></ci:cite>) <nl/>recognised the court&#x2019;s protective
+        jurisdiction as extending to any person unable <nl/>to manage his or her own affairs:
+         <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">Ridgeway v Darwin</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1802) 8 Ves Jun 65</citefragment>; <citefragment
+           searchtype="CASE-CITE-REF">32<nl/>ER 275</citefragment></ci:content></ci:cite>; <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">Ex parte Cranmer</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1806) 12 Ves Jun 445</citefragment>;
+           <citefragment searchtype="CASE-CITE-REF">33 ER 168</citefragment> at
+          170&#x2013;171</ci:content></ci:cite>; <nl/><ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sherwood v
+            Sanderson</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1815) 19 Ves Jun 280</citefragment>;
+           <citefragment searchtype="CASE-CITE-REF">34 ER 521</citefragment></ci:content></ci:cite>
+        and <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"
+            ><emph typestyle="it">In re Holmes</emph></citefragment><nl/><citefragment
+           searchtype="CASE-CITE-REF">(1827) 4 Russ 182</citefragment>; <citefragment
+           searchtype="CASE-CITE-REF">38 ER 774</citefragment></ci:content></ci:cite>. That line of
+        cases was recognised as <nl/>representative of NSW law, as received from England, by
+        Powell J in <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">MS v
+           ES</emph></citefragment><nl/><citefragment searchtype="CASE-CITE-REF">[1983] 3 NSWLR
+           199</citefragment> at 202C&#x2013;G</ci:content></ci:cite> and <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">CCR v PS (No 2)</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1986) 6 NSWLR 622</citefragment><nl/>at
+          634G</ci:content></ci:cite> et seq.</text>
+      </p>
+      <p>
+       <pnum count="77">[77]</pnum>
+       <text>In <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"
+            ><emph typestyle="it">Re C</emph></citefragment></ci:content></ci:cite>,
+        Young J&#x2019;s observations included the following (at 4, 6):</text>
+       <blockquote>
+        <p>
+         <text>&#x201C;[Section 23 of the Supreme Court Act or an inherent power no less ample is]
+          <nl/>the source of power of this court to make whatever order it considers appropriate
+          <nl/>for the protection and good management of the property of any person in New
+          <nl/>South Wales who is not fully able to take charge of his or her own property
+          <nl/>whether that disability comes about from infancy or mental illness or any other
+          <nl/>cause whatsoever.</text>
+        </p>
+        <page count="310" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+        <p>
+         <text>&#x2026;</text>
+        </p>
+        <p>
+         <text>If a question arises as to whether this court has jurisdiction to make orders of a
+          <nl/>protective nature, that question is not to be answered by looking to particular heads
+          <nl/>of power conferred by statute but rather to s&#x2009;23 of the Supreme Court Act and
+          the <nl/>inherent power of this court to make plenary orders to protect the poor, the
+          elderly, <nl/>the children and the weak.&#x201D;</text>
+        </p>
+       </blockquote>
+      </p>
+      <p>
+       <pnum count="78">[78]</pnum>
+       <text>In <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"
+            ><emph typestyle="it">Re C</emph></citefragment></ci:content></ci:cite>, White J (at
+        [66]) treated SCA, s&#x2009;23 as the source of the court&#x2019;s <nl/>inherent, <emph
+         typestyle="it">parens patriae</emph> jurisdiction, and (at [56] and [62]&#x2013;[67]) found
+        there <nl/>jurisdiction in the court to remove a guardian or a financial manager appointed
+        <nl/>to that office by the Guardianship Tribunal (now the Guardianship Division of <nl/>the
+        Civil and Administrative Tribunal, NCAT). The circumstance that the <nl/><ci:cite
+         searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">Guardianship Act</emph></citefragment></ci:content></ci:cite> and the
+         <ci:cite searchtype="LEG-REF"><ci:content><citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">NSW Trustee and Guardian Act</emph></citefragment></ci:content></ci:cite>
+        conferred similar, <nl/>express powers on the Tribunal (but not the court) did not deprive
+        the court of <nl/>its broader, inherent jurisdiction.</text>
+      </p>
+      <p>
+       <pnum count="79">[79]</pnum>
+       <text>Nothing in the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and Guardian
+           Act</emph></citefragment></ci:content></ci:cite> operates to deprive the court <nl/>of
+        its inherent, protective jurisdiction. A legislative extinguishment of that
+        <nl/>jurisdiction would require clear words (<ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In re WM (a
+            person alleged to be of<nl/>unsound mind)</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1903) 3 SR (NSW)
+         552</citefragment></ci:content></ci:cite>) not present in the <ci:cite searchtype="LEG-REF"
+           ><ci:content><citefragment searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee
+            and<nl/>Guardian Act</emph></citefragment></ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="80">[80]</pnum>
+       <text>The Act is, rather, predicated on the court&#x2019;s retention of its inherent
+        <nl/>jurisdiction.</text>
+      </p>
+      <p>
+       <pnum count="81">[81]</pnum>
+       <text>That jurisdiction is derived from the Imperial, British legislation which, first,
+        <nl/>constituted the court (the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">New South Wales Act
+           1823</emph></citefragment> (Imp) 4 Geo IV c&#x2009;96, s&#x2009;9</ci:content></ci:cite>,
+        <nl/>and cl&#x2009;18 of the <emph typestyle="it">Third Charter of Justice</emph>, letters
+        patent dated 13 October 1823, <nl/>promulgated pursuant to that Act) and, secondly,
+        clarified the timing, terms <nl/>and content of New South Wales&#x2019; inheritance of
+        English law (the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">Australian<nl/>Courts Act
+           1828</emph></citefragment> (Imp) 9 Geo IV c&#x2009;83, s&#x2009;11 and
+          s&#x2009;24</ci:content></ci:cite>): JM &#x2009;Bennett, A History <nl/>of the Supreme
+        Court of New South Wales (1974, Law Book Company, <nl/>Sydney), ch&#x2009;7, especially
+        pp&#x2009;125&#x2013;127; <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">In re WM</emph></citefragment> at
+          565</ci:content></ci:cite>. In my opinion, SCA, <nl/>s&#x2009;23 is an independent grant
+        of power.</text>
+      </p>
+      <p>
+       <pnum count="82">[82]</pnum>
+       <text>SCA, s&#x2009;23 supplements, but does not limit, the inherent jurisdiction
+        <nl/>preserved by SCA, s&#x2009;22.</text>
+      </p>
+      <p>
+       <pnum count="83">[83]</pnum>
+       <text>The court&#x2019;s protective jurisdiction, if and when duly engaged, is generally
+        <nl/>limited only by the purpose it serves (namely, protection of the person and
+        <nl/>property of a person in need of protection) and, whether stated in terms of
+        <nl/>jurisdiction or discretion, considerations of utility: <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">PB v
+           BB</emph></citefragment> at [38]</ci:content></ci:cite>, citing <nl/>Theobald,
+        pp&#x2009;362&#x2013;363, 380 and 382; cf <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In re
+            Clarke</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">[1898] 1 Ch 336</citefragment>
+          at<nl/>340&#x2013;342</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="84">[84]</pnum>
+       <text><ci:cite searchtype="LEG-REF"><ci:content>Section 39 of the <citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and Guardian
+           Act</emph></citefragment></ci:content></ci:cite> points in the same <nl/>direction by its
+        adoption of general principles which reflect those long <nl/>associated with an exercise of
+        the court&#x2019;s inherent jurisdiction:</text>
+       <blockquote>
+        <h align="left">&#x201C; <emph typestyle="bf">39&#x2002;General principles applicable to
+          Chapter [4]</emph></h>
+        <p indent="none">
+         <text>It is the duty of everyone exercising functions under [Ch 4 ss&#x2009;38&#x2013;100
+          of the <emph typestyle="it">NSW <nl/>Trustee and Guardian Act</emph>] with respect to
+          protected persons or patients to observe <nl/>the following principles: </text>
+         <l>
+          <li>
+           <lilabel>(a)</lilabel>
+           <p>
+            <text>the welfare and interests of such persons should be given paramount
+             <nl/>consideration,</text>
+           </p>
+          </li>
+          <li>
+           <lilabel>(b)</lilabel>
+           <p>
+            <text>the freedom of decision and freedom of action of such persons should <nl/>be
+             restricted as little as possible,</text>
+           </p>
+          </li>
+          <li>
+           <lilabel>(c)</lilabel>
+           <p>
+            <text>such persons should be encouraged, as far as possible, to live a normal <nl/>life
+             in the community,</text>
+           </p>
+          </li>
+          <page count="311" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+          <li>
+           <lilabel>(d)</lilabel>
+           <p>
+            <text>the views of such persons in relation to the exercise of those functions
+             <nl/>should be taken into consideration,</text>
+           </p>
+          </li>
+          <li>
+           <lilabel>(e)</lilabel>
+           <p>
+            <text>the importance of preserving the family relationships and the cultural <nl/>and
+             linguistic environments of such persons should be recognised,</text>
+           </p>
+          </li>
+          <li>
+           <lilabel>(f)</lilabel>
+           <p>
+            <text>such persons should be encouraged, as far as possible, to be self-reliant <nl/>in
+             matters relating to their personal, domestic and financial affairs,</text>
+           </p>
+          </li>
+          <li>
+           <lilabel>(g)</lilabel>
+           <p>
+            <text>such persons should be protected from neglect, abuse and exploi­
+             <nl/>tation.&#x201D;</text>
+           </p>
+          </li>
+         </l>
+        </p>
+       </blockquote>
+      </p>
+      <p>
+       <pnum count="85">[85]</pnum>
+       <text>The inherent jurisdiction (compatibly with s&#x2009;39) is extremely wide: <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">PB v BB</emph></citefragment></ci:content></ci:cite>
+        <nl/>at [29], citing M&#x2009;Davies, AS&#x2009;Bell and PLG&#x2009;Brereton (eds),
+        Nygh&#x2019;s Conflict of <nl/>Laws in Australia (8th ed, 2010, LexisNexis Australia),
+        para&#x2009;31.1.</text>
+      </p>
+      <p>
+       <pnum count="86">[86]</pnum>
+       <text>Its limits, and scope, have not been, and cannot be, defined. It is available to
+        <nl/>do whatever may be for the benefit of an incompetent person unable to care for
+        <nl/>himself or herself, and it is commonly invoked where there is need of a <nl/>protective
+        order uncontemplated by legislation: <ci:cite searchtype="CASE-REF"
+           ><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re
+           Eve</emph></citefragment> at 16&#x2013;17 and 28&#x2013;29,<nl/>410&#x2013;411 and
+          426&#x2013;427</ci:content></ci:cite>, approved by the High Court of Australia in <ci:cite
+         searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">Secretary,<nl/>Department of Health and Community Services v JWB and
+            SMB</emph></citefragment> (<emph typestyle="it">Marion&#x2019;s<nl/>Case</emph>)
+           <citefragment searchtype="CASE-CITE-REF">(1992) 175 CLR 218</citefragment> at
+          258&#x2013;259; <citefragment searchtype="CASE-CITE-REF">[1992] HCA
+          15</citefragment></ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="87">[87]</pnum>
+       <text>Although my attention has not been drawn to a reported case in which <nl/>management
+        orders have been revoked notwithstanding the continuing inca­ <nl/>pacity of a protected
+        person, the NSW Trustee has brought to attention two <nl/>unreported instances.</text>
+      </p>
+      <p>
+       <pnum count="88">[88]</pnum>
+       <text>In each of those cases (one in 2004, the other in 2010) the Protective List <nl/>Judge
+        of this court, on a report by the Protective Commissioner or the NSW <nl/>Trustee, approved
+        revocation of management orders where, although there was <nl/>no evidence of capacity for
+        self-management, there was no practical utility in <nl/>continuing the management orders,
+        and it was in the best interests of the <nl/>protected person that they be revoked.</text>
+      </p>
+      <p>
+       <pnum count="89">[89]</pnum>
+       <text>In all the circumstances, I am satisfied that the court does have jurisdiction <nl/>to
+        revoke the management orders made on 30 July 2003 (as part of its inherent <nl/>jurisdiction
+        and, independently, by virtue of SCA, s&#x2009;23) and that (for the <nl/>reasons advanced
+        by the NSW Trustee in its Report) it is in the interests, and <nl/>for the benefit, of L
+        that they be revoked.</text>
+      </p>
+      <p>
+       <pnum count="90">[90]</pnum>
+       <text>There can be no doubt about the standing of the applicant, the plaintiff, for
+        <nl/>revocation of L&#x2019;s management orders. She is his mother. With his father, she is
+        <nl/>his principal carer. She was the plaintiff in the proceedings leading to the
+        <nl/>making of the management orders now sought to be revoked, and the manager
+        <nl/>appointed by them. L continues to be a dependant member of his parents&#x2019;
+        <nl/>household. If (as I assume) he has made no will, his parents would, if he were <nl/>to
+        die now, take his estate, if any, on an intestacy.</text>
+      </p>
+      <p>
+       <pnum count="91">[91]</pnum>
+       <text>Adopting the language of the <ci:cite searchtype="LEG-REF"><ci:content><citefragment
+           searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and Guardian
+           Act</emph></citefragment></ci:content></ci:cite> as a formal <nl/>measure of her standing
+        vis-a-vis L as a protected person, L&#x2019;s mother is a <nl/>person who has: (a)
+        &#x201C;a genuine interest&#x201D; in decisions of the NSW Trustee, <nl/>sufficient to allow
+        NCAT to entertain an application for a review of them <nl/>under s&#x2009;71(6)(d); and (b)
+        a legitimate expectation of being consulted by the <nl/>NSW Trustee by reference to its
+        obligation, under s&#x2009;72, to consult relatives of a <nl/>protected person.</text>
+      </p>
+      <p>
+       <pnum count="92">[92]</pnum>
+       <text>In any event, a stranger may apply for the appointment of a protected estate
+        <nl/>manager: <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">Re an Alleged Incapable
+           Person</emph></citefragment>
+          <citefragment searchtype="CASE-CITE-REF">(1959) 77 WN (NSW)
+          156</citefragment></ci:content></ci:cite>. The <nl/>same should be held true <emph
+         typestyle="it">vis-a-vis</emph> an application for revocation of management <nl/>orders
+        upon an exercise of the court&#x2019;s inherent jurisdiction. Apart from <page count="312"
+         reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>consistency within the realm
+        of protective jurisdiction, the law on this topic <nl/>should conform to that governing an
+        application for a writ of habeas corpus (or <nl/>similar relief such as that now available
+        under SCA, s&#x2009;69): <ci:cite searchtype="CASE-REF"><ci:content><citefragment
+           searchtype="CASE-NAME-REF"><emph typestyle="it">Truth About<nl/>Motorways Pty Ltd v
+            Macquarie Infrastructure Investment Management
+           Ltd</emph></citefragment><nl/><citefragment searchtype="CASE-CITE-REF">(2000) 200 CLR
+           591</citefragment>; <citefragment searchtype="CASE-CITE-REF">[2000] HCA 11</citefragment>
+          at [2], [94], [162] and [211]</ci:content></ci:cite>.</text>
+      </p>
+      <p>
+       <pnum count="93">[93]</pnum>
+       <text>The question of standing ultimately returns to the rationale for the protective
+        <nl/>jurisdiction itself: the need for an accessible remedy for the protection of a
+        <nl/>person who, unable to manage his or her own affairs, is in need of protection.</text>
+      </p>
+      <p>
+       <pnum count="94">[94]</pnum>
+       <text>A practical safeguard on the availability of curial relief without any formal
+        <nl/>requirement for <emph typestyle="it">locus standii</emph> (independent of a proper case
+        for orders serving <nl/>the interests, and for the benefit, of a protected person) is the
+        availability to the <nl/>court of assistance from the NSW Trustee and, in the case of an
+        application by <nl/>the NSW Trustee itself, the ability of the court to invite assistance
+        from a <nl/>protected person&#x2019;s family, carers, friends and others. The court&#x2019;s
+        proceedings <nl/>are essentially inquisitional rather than merely adversarial.</text>
+      </p>
+      <p>
+       <pnum count="95">[95]</pnum>
+       <text>By analogy with orders customarily made under <ci:cite searchtype="LEG-REF"
+          ><ci:content>s&#x2009;86 of the <citefragment searchtype="LEG-NAME-REF"><emph
+            typestyle="it">NSW Trustee<nl/>and Guardian
+         Act</emph></citefragment></ci:content></ci:cite> and incorporating orders falling within
+        the powers conferred <nl/>on the court by s&#x2009;64 of the Act, I make orders to the
+        following effect: </text>
+       <l>
+        <li>
+         <lilabel>(1)</lilabel>
+         <p>
+          <text>Order that the declaration made on 30 July 2003 (in proceedings <nl/>numbered 27 of
+           2003) that L is a person who is incapable of <nl/>managing his affairs be revoked.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(2)</lilabel>
+         <p>
+          <text>Order that the order made on 30 July 2003 (in proceedings <nl/>numbered 27 of 2003)
+           for the appointment of a manager of the <nl/>estate of L be revoked.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(3)</lilabel>
+         <p>
+          <text>Order that the estate of L be released from control of his mother as <nl/>manager of
+           his estate, and that she be discharged as manager.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(4)</lilabel>
+         <p>
+          <text>Order that L&#x2019;s mother, as former manager of the estate of L, take <nl/>such
+           steps, in consultation with the NSW Trustee, as may be <nl/>necessary or expedient to
+           wind up the protected estate management <nl/>of L&#x2019;s affairs in an orderly
+           manner.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(5)</lilabel>
+         <p>
+          <text>Order, pursuant to <ci:cite searchtype="LEG-REF"><ci:content>rule 36.4 of the
+              <citefragment searchtype="LEG-NAME-REF"><emph typestyle="it">Uniform Civil Procedure
+               Rules<nl/>2005</emph></citefragment> (NSW)</ci:content></ci:cite> and <ci:cite
+            searchtype="LEG-REF"><ci:content>s&#x2009;64 of the <citefragment
+              searchtype="LEG-NAME-REF"><emph typestyle="it">NSW Trustee and Guardian
+              Act</emph></citefragment></ci:content></ci:cite>, that <nl/>these Orders take effect
+           on the date that marks the expiry of 14 days <nl/>from the date upon which a copy of the
+           Orders is served on the <nl/>NSW Trustee by the solicitor for L&#x2019;s mother (the
+           plaintiff).</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(6)</lilabel>
+         <p>
+          <text>Note that no orders are made as to the costs of the proceedings, to <nl/>the intent
+           that each party pay his or her own costs.</text>
+         </p>
+        </li>
+        <li>
+         <lilabel>(7)</lilabel>
+         <p>
+          <text>Order that the solicitor for L&#x2019;s mother (the plaintiff), on or before
+           <nl/>20 August 2014, serve a copy of these orders on the NSW Trustee <nl/>(marked to the
+           attention of Catherine Phang).</text>
+         </p>
+        </li>
+       </l>
+      </p>
+      <p>
+       <pnum count="96">[96]</pnum>
+       <text>I have taken the step of revoking the declaration of incapacity made on <nl/>30 July
+        2003 for the purpose of ensuring that the jurisdictional foundation for <nl/>other
+        management orders made on that date is removed. I have not, as is <nl/>customary in
+        s&#x2009;86 cases, made a declaration that L is a person capable of <nl/>managing his
+        affairs. Plainly, he is not.</text>
+      </p>
+      <p>
+       <pnum count="97">[97]</pnum>
+       <text>Revocation of the management orders cannot of itself prevent, or impede, an
+        <nl/>invocation of the court&#x2019;s protective jurisdiction in aid of L should that be
+        <nl/>necessary or expedient in the future. What, if any, relief might be granted in <nl/>the
+        future must depend on the circumstances then prevailing.</text>
+      </p>
+      <page count="313" reporter="NSWLR" text="(2014) 94 NSWLR 300 at " subdoc="true"/>
+      <p>
+       <pnum count="98">[98]</pnum>
+       <text>The &#x201C;proper order&#x201D; as to the costs of the current proceedings (in
+        conformity <nl/>with the practice of the court in protective proceedings, as explained in
+         <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph
+            typestyle="it">CCR v<nl/>PS (No 2)</emph></citefragment> at 640</ci:content></ci:cite>)
+        is that there be no order as to costs.</text>
+      </p>
+      <h align="left">
+       <emph typestyle="bf">Conclusion</emph>
+      </h>
+      <p>
+       <pnum count="99">[99]</pnum>
+       <text>Any decision about whether to make, or revoke, management orders <nl/>affecting the
+        property of a person incapable of managing his or her own affairs <nl/>must, ultimately, be
+        guided by an assessment of whether each particular order <nl/>proposed is for the benefit,
+        and in the interests, of the individual in need of <nl/>protection.</text>
+      </p>
+      <p>
+       <pnum count="100">[100]</pnum>
+       <text>As in the cases considered in these proceedings, the court may, from time to <nl/>time,
+        make or decline to make management orders, or decide or decline to <nl/>revoke management
+        orders, by reference to considerations of practical utility.</text>
+      </p>
+      <p>
+       <pnum count="101">[101]</pnum>
+       <text>The fact that a person is incapable of self-management necessarily engages <nl/>the
+        attention of the court. It does not dictate a particular outcome.</text>
+      </p>
+     </case:judgmentbody>
+    </case:judgment>
+    <case:order subdoc="true" toc-caption="ORDER">
+     <p>
+      <text>Orders as per <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate
+           year="2014"/></ci:caseinfo><ci:caseref ID="cr012"><ci:reporter value="nswlr"/><ci:volume
+           num="94"/><ci:page num="300"/></ci:caseref><ci:caseref anaphref="cr012"
+          spanref="cr012-01"><ci:pinpoint targettype="para" num="54"
+          /></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span
+           spanid="cr012-01">[54]</ci:span></citefragment></ci:content></ci:cite> and <ci:cite
+        searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2014"
+          /></ci:caseinfo><ci:caseref ID="cr013"><ci:reporter value="nswlr"/><ci:volume num="94"
+           /><ci:page num="300"/></ci:caseref><ci:caseref anaphref="cr013" spanref="cr013-01"
+           ><ci:pinpoint targettype="para" num="95"
+          /></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span
+           spanid="cr013-01">[95]</ci:span></citefragment></ci:content></ci:cite></text>
+     </p>
+    </case:order>
+    <case:constituents>
+     <p>
+      <text>Re W</text>
+     </p>
+     <p>
+      <text>&#x2003;Solicitors for the plaintiff: <emph typestyle="it">Lamrocks Solicitors</emph>
+       (Penrith).</text>
+     </p>
+     <p>
+      <text>Re L</text>
+     </p>
+     <p>
+      <text>&#x2003;Solicitors for the plaintiff: <emph typestyle="it">Slattery Thompson</emph>
+       (Earlwood).</text>
+     </p>
+    </case:constituents>
+   </case:judgments>
+   <case:author>
+    <person>
+     <name.text>H MANN</name.text>
+     <role>Barrister</role>
+    </person>
+   </case:author>
+   <glp:note>
+    <blockquote>
+     <p>
+      <text>
+       <copyright>© Council of Law Reporting for New South Wales.</copyright>
+      </text>
+     </p>
+    </blockquote>
+   </glp:note>
+  </case:content>
+ </case:body>
+</CASEDOC>
