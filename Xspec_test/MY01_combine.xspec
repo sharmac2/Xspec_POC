@@ -51,7 +51,7 @@
     xmlns:shared_legisinfo="http://www.lexisnexis.com/xmlschemas/content/legal/legisinfo/1/"
     xmlns:source_cttr="http://www.lexis-nexis.com/glp/cttr"
     xmlns:source_dict="http://www.lexis-nexis.com/glp/dict"
-    xmlns:source_docinfo="http://www.lexis-nexis.com/glp/docinfo">
+    xmlns:source_docinfo="http://www.lexis-nexis.com/glp/docinfo" stylesheet="AU01_Rosetta_CASEDOC-to-LxAdv_courtcase.xsl">
     <x:import href="../Xspec_test/AU01_Rosetta_CASEDOC-to-LxAdv_courtcase.xspec"/>
     <x:import href="../Xspec_test/MY01.xspec"/>
    <!-- <x:scenario label="Scenario for 4.1 case:headnote ">
