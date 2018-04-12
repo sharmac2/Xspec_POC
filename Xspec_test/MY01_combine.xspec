@@ -52,7 +52,7 @@
     xmlns:source_cttr="http://www.lexis-nexis.com/glp/cttr"
     xmlns:source_dict="http://www.lexis-nexis.com/glp/dict"
     xmlns:source_docinfo="http://www.lexis-nexis.com/glp/docinfo"
-    stylesheet="MY01_Rosetta_CASEDOC-to-LxAdv_courtcase.xsl">
+    stylesheet="">
     <x:import href="../Xspec_test/AU01_Rosetta_CASEDOC-to-LxAdv_courtcase.xspec"/>
     <x:import href="../Xspec_test/MY01%20-%20Copy.xspec"/>
    <!-- <x:scenario label="Scenario for 4.1 case:headnote ">
