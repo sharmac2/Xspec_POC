@@ -55,9 +55,9 @@
     stylesheet="MY01_Rosetta_CASEDOC-to-LxAdv_courtcase.xsl">
     <x:scenario label="Scenario for 4.1 case:headnote ">
         <x:context href="mlj1997_1_0145.xml"/>
-        <!-- We have not given source xpath for headnote here because the underlying xslt won't be able to do the conversion based on source xpath-->
+        
         <x:expect label="case:headnote becomes courtcase:courtcase/courtcase:head "
-            test="/courtcase:courtcase/courtcase:head/text()"/>
+            test="/courtcase:courtcase/courtcase:head/text()" xml:space="preserve"/>
     </x:scenario>
     <x:scenario label="Scenario for 4.4. case:casename">
         <x:context><case:casename>PUBLIC PROSECUTOR v ANG BENG HOCK</case:casename></x:context>
@@ -66,6 +66,62 @@
                 <caseinfo:fullcasename>PUBLIC PROSECUTOR v ANG BENG HOCK</caseinfo:fullcasename>
             </caseinfo:casename>
         </x:expect>
-<!--chaITANYA sharma LN142 June-->
+
+    </x:scenario>
+    <x:scenario label="Scenario for 4.2. case:length">
+        <x:context>
+            <case:length>2 pages</case:length>
+        </x:context>
+        <x:expect label="case:length becomes doc:metadata/doc:docinfo/doc:doclength. The attributes of doc:doclength are populated as follows:
+            • doc:doclength/@num is populated with the numeric content in case:length.
+            • doc:doclength/@unit is populated with the textual content in case:length.
+            • doc:doclength/@source is populated with the value conversion.">
+            <doc:doclength num="2" unit="pages" source="conversion"/>
+        </x:expect>
+    </x:scenario>
+    <x:scenario label="Scenario for 4.5. case:altname">
+        <x:context>
+            <case:info>
+                <case:casename>ELECON AUSTRALIA PTY LTD v BREVINI AUSTRALIA PTY LTD (NSD 1423 of
+                    2004)</case:casename>
+                <case:altname>PIV DRIVES GMBH and Another v ELECON AUSTRALIA PTY LTD and Others (NSD 1955
+                    of
+                    2004)</case:altname>
+            </case:info>
+        </x:context>
+        <x:expect label="case:altname becomes caseinfo:caseinfo/caseinfo:alternatecasename." >
+            <caseinfo:casename>
+                <caseinfo:fullcasename>ELECON AUSTRALIA PTY LTD v BREVINI AUSTRALIA PTY LTD (NSD 1423 of
+                    2004)</caseinfo:fullcasename>
+            </caseinfo:casename>
+            <caseinfo:alternatecasename>PIV DRIVES GMBH and Another v ELECON AUSTRALIA PTY LTD and Others (NSD 1955
+                    of
+                    2004)</caseinfo:alternatecasename>
+        </x:expect>
+    </x:scenario>
+    <x:scenario label="Scenario for 4.6. case:reportercite">
+        <x:context href="mlj1997_1_0145.xml" select="/CASEDOC/case:body[1]/case:headnote[1]/case:info[1]/case:reportercite[1]"/>
+        <x:expect label="">
+            <ref:citations><ref:cite4thisresource citetype="reporter">  <lnci:cite>  <lnci:case>  <lnci:caseinfo> <lnci:decisiondate year="1997"/> </lnci:caseinfo> <lnci:caseref>  <lnci:reporter value="MLJ"/> <lnci:volume num="1"/> <lnci:edition> <lnci:date year="1997"/> </lnci:edition> <lnci:page num="145"/> </lnci:caseref> </lnci:case>  <lnci:content>   [1997] 1 MLJ 145  </lnci:content>  </lnci:cite> </ref:cite4thisresource></ref:citations>
+        </x:expect>
+    </x:scenario>
+<x:scenario label="">
+    <x:context>
+        <link refpt="x98-1174a2">page 324 line 46</link>
+    </x:context>
+    <x:expect label="">
+        <ref:lnlink xmlns:ref="http://www.lexisnexis.com/xmlschemas/content/shared/reference/1/">
+            <ref:marker>page 324 line 46</ref:marker>
+            <ref:locator anchoridref="x98-1174a2"></ref:locator>
+        </ref:lnlink>
+    </x:expect>
+</x:scenario>
+    <x:scenario label="">
+        <x:context>
+            <link type="pdf" smi="98765" filename="xmpl-c1.pdf" status="valid">Download in PDF</link>
+        </x:context>
+        <x:expect label="">
+            Hello
+        </x:expect>
     </x:scenario>
 </x:description>
