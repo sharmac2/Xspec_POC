@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 
-<!DOCTYPE CASEDOC PUBLIC "-//LEXISNEXIS//DTD GLP Casedoc v006//EN" "casedoc-norm.dtd">
+<!--<!DOCTYPE CASEDOC PUBLIC "-//LEXISNEXIS//DTD GLP Casedoc v006//EN" "casedoc-norm.dtd">-->
 
 
 <CASEDOC xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:lnv="http://www.lexis-nexis.com/lnv"
@@ -68,41 +68,12 @@
  </docinfo>
 
  <case:body>
-  <heading>
-   <desig>
-    <designum>ilju</designum>
-   </desig>
-  </heading>
   <case:headnote>
    <case:length>95 pages </case:length>
    <case:info>
-    <case:reportercite>
-     <ci:cite type="cite4thisdoc">
+    <case:reportercite>  <ci:cite type="cite4thisdoc">  <ci:case>  <ci:caseinfo> <ci:decisiondate year="1997"/> </ci:caseinfo> <ci:caseref>  <ci:reporter value="MLJ"/> <ci:volume num="1"/> <ci:edition> <ci:date year="1997"/> </ci:edition> <ci:page num="145"/> </ci:caseref> </ci:case>  <ci:content>  <citefragment searchtype="CASE-CITE-REF"> &#x005B;1997&#x005D; 1 MLJ 145 </citefragment> </ci:content>  </ci:cite> </case:reportercite>
 
-      <ci:case>
-
-       <ci:caseinfo>
-        <ci:decisiondate year="1997"/>
-       </ci:caseinfo>
-       <ci:caseref>
-
-        <ci:reporter value="MLJ"/>
-        <ci:volume num="1"/>
-        <ci:edition>
-         <ci:date year="1997"/>
-        </ci:edition>
-        <ci:page num="145"/>
-       </ci:caseref>
-      </ci:case>
-
-      <ci:content>
-       <citefragment searchtype="CASE-CITE-REF"> &#x005B;1997&#x005D; 1 MLJ 145 </citefragment>
-      </ci:content>
-
-     </ci:cite>
-    </case:reportercite>
-
-    <case:casename>R RAMA CHANDRAN v THE INDUSTRIAL COURT OF MALAYSIA &amp; ANOR</case:casename>
+    <case:casename>R RAMA CHANDRAN v THE INDUSTRIAL COURT OF MALAYSIA &amp; ANOR </case:casename>
 
     <case:litigants ln.user-displayed="false">
      <case:party>R RAMA CHANDRAN </case:party>
@@ -115,11 +86,15 @@
     </case:litigants>
     <case:courtinfo>
      <case:courtname>FEDERAL COURT (KUALA LUMPUR) </case:courtname>
+
      <case:juris ln.user-displayed="false">my </case:juris>
+
      <case:courtcode ln.user-displayed="false">MYFC </case:courtcode>
+
      <case:judges>
       <case:judge>EUSOFF CHIN CHIEF JUSTICE </case:judge> , <case:judge>EDGAR JOSEPH </case:judge>
       JR AND <case:judge>WAN YAHYA </case:judge> FCJJ </case:judges>
+
      <case:filenum>CIVIL APPEAL NO 02-13-94 </case:filenum>
      <case:dates>
       <case:decisiondate>
@@ -133,29 +108,26 @@
 
    <catchwordgrp>
     <catchwords>
-     <catchphrase>Labour Law &mdash; Employment &mdash; Termination of employment &mdash; Dismissal
-      &mdash; Claim by employee for wrongful dismissal and relief &mdash; Failure of Industrial
-      Court to consider allegations of biasness and victimization raised by dismissed employee
-      &mdash; Serious error of fact and law affecting its jurisdiction &mdash; Whether dismissal was
-      wrongful and without just cause or excuse &mdash; Whether Award of the Industrial Court should
-      be quashed </catchphrase>
+     <catchphrase>Labour Law Employment Termination of employment Dismissal Claim by employee for
+      wrongful dismissal and relief Failure of Industrial Court to consider allegations of biasness
+      and victimization raised by dismissed employee Serious error of fact and law affecting its
+      jurisdiction Whether dismissal was wrongful and without just cause or excuse Whether Award of
+      the Industrial Court should be quashed </catchphrase>
     </catchwords>
 
     <catchwords>
-     <catchphrase>Civil Procedure &mdash; Jurisdiction &mdash; Consequential relief &mdash; Award of
-      Industrial Court quashed &mdash; Whether court has jurisdiction to Award consequential relief
-      or must remit case to Industrial Court for retrial after quashing Award &mdash; Courts of
-      Judicature Act 1964 s 25 &mdash; Rules of the High Court 1980 O 53 &amp; O 92 r 4
-     </catchphrase>
+     <catchphrase>Civil Procedure Jurisdiction Consequential relief Award of Industrial Court
+      quashed Whether court has jurisdiction to Award consequential relief or must remit case to
+      Industrial Court for retrial after quashing Award Courts of Judicature Act 1964 s 25 Rules of
+      the High Court 1980 O 53 &amp; O 92 r 4 </catchphrase>
     </catchwords>
 
     <catchwords>
-     <catchphrase>Administrative Law &mdash; Remedies &mdash; Certiorari &mdash; Consequential
-      relief &mdash; Powers of the court conferred by para&#xFFFD;1 of Schedule to Courts of
-      Judicature Act 1964 &mdash; Whether court has jurisdiction to award consequential relief or
-      must remit case to Industrial Court for retrial after quashing Award &mdash; Courts of
-      Judicature Act 1964 s 25 &mdash; Rules of the High Court 1980 O 53 &amp; O 92 r 4
-     </catchphrase>
+     <catchphrase>Administrative Law Remedies Certiorari Consequential relief Powers of the court
+      conferred by para&#xFFFD;1 of Schedule to Courts of Judicature Act 1964 Whether court has
+      jurisdiction to award consequential relief or must remit case to Industrial Court for retrial
+      after quashing Award Courts of Judicature Act 1964 s 25 Rules of the High Court 1980 O 53
+      &amp; O 92 r 4 </catchphrase>
     </catchwords>
 
    </catchwordgrp>
@@ -166,35 +138,21 @@
       Malaysian Co-operative Consumer Society Ltd (&#x0027;the Employer&#x0027;) after two years of
       employment. The Employee made a representation to the Director General for Industrial
       Relations under <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="act" num="0177">
-
            <ci:hierlev label="section" num="20"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_PA"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>s 20(1) </ci:content>
       </ci:cite> of the Industrial Relations Act 1967 (&#x0027;the Act&#x0027;) claiming that he was
       dismissed by the Employer without just cause or excuse and asking that he be reinstated to his
@@ -272,62 +230,36 @@
       <p>
        <text>(Per <emph typestyle="bf">Eusoff Chin Chief Justice </emph>) There is no provision in
         the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite> (&#x0027;the CJA&#x0027;), the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> (&#x0027;the RHC&#x0027;) or the Act expressly or impliedly prohibiting the High
         Court from granting any relief as provided for in the Act when quashing an Award of the
@@ -1093,39 +1025,23 @@
         rigorous examination, eg in cases of interference with human rights or when the result of an
         impugned decision may put life or liberty at risk. And &#x0027;life&#x0027; in <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="1">
-
              <ci:hierlev label="year" num="1957">
-
               <ci:hierlev label="section" num="1"> </ci:hierlev>
-
              </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>art 5(1) </ci:content>
         </ci:cite> of the Federal Constitution, as pointed out in <emph typestyle="it">Tan Tek Seng
          v Suruhanjaya Perkhidmatan Pendidikan &amp; Anor </emph>
@@ -3115,35 +3031,21 @@
         court&apos;s supervisory jurisdiction allows it the power to quash and not to act in an
         appellate capacity to reverse the decision of the Industrial Court. In a certiorari hearing
         under <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>O 53 </ci:content>
         </ci:cite> of the RHC, this court did not sit as an appellate court to review and alter the
         findings of the Industrial Court. Its function was purely supervisory in nature and as such,
@@ -3180,35 +3082,21 @@
        <text>(Per <emph typestyle="bf">Wan Yahya FCJ </emph>) An Award of relief could have been
         obtained in the High Court by Reference under s 33A(5) of the Act had the workman been
         mindful to do so but he had instead opted to proceed under <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>O 52 </ci:content>
         </ci:cite> of the RHC and as such it was only fair that he should abide by the remedy
         available under his certiorari application (see p 203I). </text>
@@ -3238,73 +3126,43 @@
       </lilabel>
       <p>
        <text>(Per <emph typestyle="bf">Wan Yahya FCJ </emph>) <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="1">
-
              <ci:hierlev label="year" num="1957">
-
               <ci:hierlev label="section" num="25"> </ci:hierlev>
-
              </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Section 25 </ci:content>
         </ci:cite> of the CJA, being a mere creature of statute and not part of the Federal
         Constitution, is subject to qualification and modification by other legislation. <page
          reporter="mlj" count="154" text="1997 1 MLJ 145 at " subdoc="true"/> Section 25(2) must be
         read with <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>O 53 </ci:content>
         </ci:cite> of the RHC; and when so read, the powers under the Act do not seem to be
         unlimited. The power of review under certiorari must be exercised in conformity with the
@@ -3326,35 +3184,21 @@
       <p>
        <text>(Per <emph typestyle="bf">Wan Yahya FCJ </emph>) The inherent powers of the court as
         provided under <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="pua0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>O 92 r 4 </ci:content>
         </ci:cite> of the RHC must not only be exercised subject to other express provisions of the
         Rules but it must also not be in conflict with the intention of the legislature to be found
@@ -4409,35 +4253,21 @@
       <p>
        <text>(Per <emph typestyle="bf">Edgar Joseph Jr FCJ </emph>) While <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>O 53 </ci:content>
         </ci:cite> of the RHC can only prescribe the procedure and practice to be followed by
         parties when applying for Judicial Review, the source of power enjoyed by our courts to
@@ -4667,68 +4497,40 @@
       <p>
        <text>(Per <emph typestyle="bf">Edgar Joseph Jr FCJ </emph>) The powers exercisable by this
         court when hearing this appeal would, by reason of <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0388">
-
              <ci:hierlev label="section" num="30"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 30 </ci:content>
         </ci:cite> of the Interpretation Acts 1948 and 1967, be the powers provided for by sub-s (4)
         of s 69 of the CJA (in the form that it took prior to its amendment on 24 June 1994 by the
         Courts of Judicature (Amendment) Act 1994 <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="amendment" num="000886">
-
              <ci:hierlev label="year" num="1994"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_A"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 16(b) </ci:content>
         </ci:cite> when the words &#x0027;Court of Appeal&#x0027; was substituted for the words
         &#x0027;Supreme Court&#x0027;), which gives this court power not only to make any order
@@ -5792,31 +5594,19 @@
       <p>
        <text>(Oleh <emph typestyle="bf">Eusoff Chin Ketua Hakim </emph>) Tiada peruntukan dalam
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Akta Mahkamah Kehakiman 1964 </ci:content>
         </ci:cite> (&#x0027;AMK&#x0027;), Kaedah-Kaedah Mahkamah Tinggi 1980 (&#x0027;KMT&#x0027;)
         atau Akta tersebut sama ada secara nyata atau tersirat yang melarang Mahkamah Tinggi
@@ -6831,67 +6621,39 @@
       <p>
        <text>(Oleh <emph typestyle="bf">Edgar Joseph Jr HMP </emph>) Kuasa yang boleh dilaksanakan
         oleh mahkamah ini ketika mendengar rayuan ini adalah, melalui <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0388">
-
              <ci:hierlev label="section" num="30"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 30 </ci:content>
         </ci:cite> Akta Tafsiran 1948 dan 1967, kuasa-kuasa yang diperuntukkan oleh sub-s (4) s 69
         AMK (dalam bentuk sebelum pindaan pada 24 Jun 1994 oleh <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="schedule" num="16"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 16(b) </ci:content>
         </ci:cite> Akta Mahkamah Kehakiman (Pindaan) 1994 di mana perkataan-perkataan
         &#x0027;Mahkamah Rayuan&#x0027; diganti untuk &#x0027;Mahkamah Agung&#x0027;) yang
@@ -10610,31 +10372,19 @@
     <p>
      <text>
       <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="act" num="IN1950COOI01"> </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="IN"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>Constitution of India </ci:content>
       </ci:cite>art 226 &#x005B;India&#x005D; </text>
     </p>
@@ -10642,159 +10392,91 @@
     <p>
      <text>
       <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="act" num="IN1950COOI01"> </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="IN"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>Constitution of India </ci:content>
       </ci:cite>art 226 &#x005B;India&#x005D; </text>
     </p>
 
     <p>
      <text>Courts of Judicature Act 1964 <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="amendment" num="000091">
-
            <ci:hierlev label="year" num="1964"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_A"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>ss 17 </ci:content>
       </ci:cite>, <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="amendment" num="000091">
-
            <ci:hierlev label="year" num="1964"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_A"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>25 </ci:content>
       </ci:cite>, <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="amendment" num="000091">
-
            <ci:hierlev label="year" num="1964"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_A"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>69(4) </ci:content>
       </ci:cite>, <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="amendment" num="000091">
-
            <ci:hierlev label="year" num="1964"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_A"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>Schedule para 1, </ci:content>
       </ci:cite>
      </text>
@@ -10802,6 +10484,7 @@
 
     <p>
      <text>
+
       <ci:cite searchtype="LEG-REF">
 
        <ci:sesslaw>
@@ -10851,128 +10534,72 @@
 
     <p>
      <text>Industrial Relations Act 1967 <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="act" num="0177">
-
            <ci:hierlev label="section" num="30"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_PA"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>ss 30(3) </ci:content>
       </ci:cite>, <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="act" num="0177">
-
            <ci:hierlev label="section" num="33A"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_PA"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>33A </ci:content>
       </ci:cite>, <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="act" num="0177">
-
            <ci:hierlev label="section" num="33a"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_PA"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>33A(5) </ci:content>
       </ci:cite>, <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="act" num="0177">
-
            <ci:hierlev label="section" num="33b"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_PA"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>33B(1) </ci:content>
       </ci:cite>
      </text>
@@ -10986,35 +10613,21 @@
     <p>
      <text>
       <ci:cite searchtype="LEG-REF">
-
        <ci:sesslaw>
-
         <ci:sesslawinfo>
-
          <ci:jurisinfo>
-
           <ci:my/>
-
          </ci:jurisinfo>
-
          <ci:hier>
-
           <ci:hierlev label="local-rule" num="PUA0050">
-
            <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
           </ci:hierlev>
-
          </ci:hier>
-
         </ci:sesslawinfo>
-
         <ci:sesslawref>
-
          <ci:standardname normpubcode="USM_SL"/>
         </ci:sesslawref>
        </ci:sesslaw>
-
        <ci:content>Rules of the High Court 1980 </ci:content>
       </ci:cite>O 53, O 92 r 4 </text>
     </p>
@@ -11054,31 +10667,19 @@
         5 May 1986 as Trainee General Manager at a salary of RM5,500 per month plus a car for his
         use. He was dismissed by the society on 31 January 1987. After an intervention by the
         Registrar of Societies under Part V of the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0177"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Industrial Relations Act 1967 </ci:content>
         </ci:cite> (&#x0027;the Act&#x0027;) he was re-employed by the society as Credit Control and
         Divisional Manager effective on 1 April 1987 but with a reduced salary of RM3,950 per month
@@ -11976,31 +11577,19 @@
       <p>
        <text>In Malaysia, the High Courts are conferred with similar powers by para 1 of the
         Schedule to the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite> which states: </text>
 
@@ -12020,35 +11609,21 @@
       <p>
        <text>The procedure relating to an application for certiorari is laid out in O 53 of the
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>. </text>
 
@@ -12056,62 +11631,36 @@
 
       <p>
        <text>I cannot find any provision in the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite>, the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> or the Act expressly or impliedly prohibiting the High Court from granting any
         relief as provided for in the Act when quashing an Award of the Industrial Court. The court
@@ -12147,35 +11696,21 @@
       <p>
        <text>I should go further and consider the provisions of O 92 r 4 of the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> which provides: </text>
 
@@ -12283,31 +11818,19 @@
        <p>
         <text>In my view, having regard to the principles enunciated in the cases cited, the
           <ci:cite searchtype="LEG-REF">
-
           <ci:sesslaw>
-
            <ci:sesslawinfo>
-
             <ci:jurisinfo>
-
              <ci:my/>
-
             </ci:jurisinfo>
-
             <ci:hier>
-
              <ci:hierlev label="act" num="0177"> </ci:hierlev>
-
             </ci:hier>
-
            </ci:sesslawinfo>
-
            <ci:sesslawref>
-
             <ci:standardname normpubcode="USM_PA"/>
            </ci:sesslawref>
           </ci:sesslaw>
-
           <ci:content>Industrial Relations Act </ci:content>
          </ci:cite>, being a social legislation enacted with the prime object of attaining social
          justice and industrial peace, demands practical and realistic interpretation whenever
@@ -13281,35 +12804,21 @@
         from service, on the basis of a binding over order made against him, without a conviction
         being recorded, in respect of two offences of criminal breach of trust, in contravention of
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0574">
-
              <ci:hierlev label="section" num="409"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 409 </ci:content>
         </ci:cite> of the Penal Code (FMS Cap 45), the severity of punishment, to wit, dismissal
         from service, was in issue. The Johore Education Department had recommended that the
@@ -14313,35 +13822,21 @@
        <text>In this context, it is pertinent to note that the jurisdiction of the courts in
         Malaysia to issue prerogative orders is derived from the prerogative jurisdiction inherited
         from English decisions as well as from statute. <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="amendment" num="000091">
-
              <ci:hierlev label="year" num="1964"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_A"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>The Courts of Judicature Act 1964 </ci:content>
         </ci:cite>, by s 25 read with para l of the Schedule thereto, provides that the powers of
         the High Court include: </text>
@@ -14410,31 +13905,19 @@
 
       <p>
        <text>It is obvious that para 1 of the Schedule to the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite>, is generally in pari materia with Art 226(1) of the Indian Constitution which
         provides: </text>
@@ -14785,31 +14268,19 @@
       <p>
        <text>Having regard to the breadth of the provisions of para 1 of the Schedule to the
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite>, it would be wrong to assume that the extent of the power of the courts in
         Malaysia in the field of Public Law remedies is limited in the same manner as that of the
@@ -15204,35 +14675,21 @@
       <p>
        <text>This is so because in a certiorari hearing under O 53 of the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>, this court does not sit as an appellate court to review and alter the findings
         of the Industrial Court. Our function is purely supervisory in nature and as such we possess
@@ -15278,35 +14735,21 @@
         <text>The circumstances under which the High Court can interfere with the decision of the
          Industrial Court are limited. For instance, it has no jurisdiction under <ci:cite
           searchtype="LEG-REF">
-
           <ci:sesslaw>
-
            <ci:sesslawinfo>
-
             <ci:jurisinfo>
-
              <ci:my/>
-
             </ci:jurisinfo>
-
             <ci:hier>
-
              <ci:hierlev label="act" num="0091">
-
               <ci:hierlev label="section" num="25"> </ci:hierlev>
-
              </ci:hierlev>
-
             </ci:hier>
-
            </ci:sesslawinfo>
-
            <ci:sesslawref>
-
             <ci:standardname normpubcode="USM_PA"/>
            </ci:sesslawref>
           </ci:sesslaw>
-
           <ci:content>s 25 </ci:content>
          </ci:cite> of the Courts of Judicature Act 1964 to interfere with the findings of fact
          reached by the Industrial Court on the ground that the decision is erroneous except where
@@ -15700,68 +15143,40 @@
         questions and award relief as could have been originally granted by the tribunal. A
         corresponding remedy could have been obtained in our High Court by reference under <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0177">
-
              <ci:hierlev label="section" num="33a"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 33A(5) </ci:content>
         </ci:cite> of the Industrial Relations Act 1967 (&#x0027;the Act&#x0027;) had the workman
         been mindful to do so but he had instead opted to proceed under O 52 of the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> and as such it is only fair that he should abide by the remedy available under
         his certiorari application. <page reporter="mlj" count="204" text="1997 1 MLJ 145 at "
@@ -15802,35 +15217,21 @@
       <p>
        <text>As the logic of the appellant&apos;s arguments appear to pivot substantially on these
         Sri Lanka authorities, and as an adjunct, on O 92 of the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>, counsel&apos;s argument must stand or fall with the relevancy and applicability
         of those cases to our present appeal. On my part, I have already decided against their
@@ -15844,35 +15245,21 @@
        <text>However, the majority view of my learned brothers is that the appellant&apos;s case can
         nevertheless succeed on the basis of an analogy between the power conferred by Indian
         Constitution and our <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="25"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 25(2) </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964. Unfortunately, this line of reasoning was
         never raised as an argument in this court nor in the court below. I am thus confronted with
@@ -16093,31 +15480,19 @@
         cases by virtue of Art 226 of the Constitution of India which was stated to be similar to
         the provision on additional power conferred on our High Courts as spelled out in para 1 of
         the Schedule to the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite>. Thus it was held that our courts too would possess similar power to grant such
         relief. The cases <emph typestyle="it">Gujarat Steel Tubes Ltd v GS Tubes Mazdoor Sabha </emph>
@@ -16320,35 +15695,21 @@
       <p>
        <text>Article 226 confers vast and wider powers to the Supreme and High Courts in India than
         those under <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="25"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 25 </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964 does to our courts. Read with art 32 of the
         Constitution of India, the Supreme and High Courts there are empowered to hear directly as
@@ -16415,31 +15776,19 @@
        <text>Having regard to the vast and almost unlimited powers of art 226, the question to be
         answered is whether our courts are entitled on the basis of minor similarity of the language
         in one of the articles alone to import into our <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act </ci:content>
         </ci:cite> the jurisdiction envisaged in that article. I am not in favour of such an
         interpretation for the following considerations: </text>
@@ -16462,35 +15811,21 @@
           certiorari is contained in an ordinary Act of Parliament and therefore it can be qualified
           or modified by another Act of Parliament. Particularly, in our case is our <ci:cite
            searchtype="LEG-REF">
-
            <ci:sesslaw>
-
             <ci:sesslawinfo>
-
              <ci:jurisinfo>
-
               <ci:my/>
-
              </ci:jurisinfo>
-
              <ci:hier>
-
               <ci:hierlev label="local-rule" num="PUA0050">
-
                <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
               </ci:hierlev>
-
              </ci:hier>
-
             </ci:sesslawinfo>
-
             <ci:sesslawref>
-
              <ci:standardname normpubcode="USM_SL"/>
             </ci:sesslawref>
            </ci:sesslaw>
-
            <ci:content>Rules of the High Court 1980 </ci:content>
           </ci:cite>. </text>
 
@@ -16512,35 +15847,21 @@
             the pre-1977 amendment of the English Rules of the Supreme Court hence the power to
             grant consequential relief under the article is likewise outside the scope of our
              <ci:cite searchtype="LEG-REF">
-
              <ci:sesslaw>
-
               <ci:sesslawinfo>
-
                <ci:jurisinfo>
-
                 <ci:my/>
-
                </ci:jurisinfo>
-
                <ci:hier>
-
                 <ci:hierlev label="local-rule" num="PUA0050">
-
                  <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
                 </ci:hierlev>
-
                </ci:hier>
-
               </ci:sesslawinfo>
-
               <ci:sesslawref>
-
                <ci:standardname normpubcode="USM_SL"/>
               </ci:sesslawref>
              </ci:sesslaw>
-
              <ci:content>Rules of the High Court </ci:content>
             </ci:cite>. </text>
 
@@ -17114,35 +16435,21 @@
       <p>
        <text>Having regard to the contrasting nature of jurisdiction envisaged under art 226 of the
         Constitution of India and <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="25"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 25(2) </ci:content>
         </ci:cite> of our Courts of Judicature Act 1964, the cautious attitude of the Indian courts
         in exercising the wider jurisdiction, the conflicting authorities with regard to the article
@@ -17155,69 +16462,41 @@
       <p>
        <text>Over and above these factors, it is my considered opinion that our <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="25"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s&#xFFFD;25 </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964 &#x2013; being a mere creature of statute
         and not being part of the Federal Constitution &#x2013; is subject to qualification and
         modification by other legislation. Section 25(2) must be read with O&#xFFFD;53 of the
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>; and when so read, the powers under the Act do not seem to be unlimited. </text>
 
@@ -17252,35 +16531,21 @@
       <p>
        <text>The particular rule of court applicable in this instance is O 53 of the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>. Under this order, certiorari may be issued to remove the record of the
         proceedings from an inferior court or administrative tribunal or other public authority to
@@ -17346,35 +16611,21 @@
        <text>However, when our Rules of the High Court was made in 1980, the startling departure
         from the common law made by the said 1977 amendment was not adopted in Malaysia in our
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>. The Rules Committee instead opted for the pre-amended order of the English Rules
         of the Supreme Court 1965 with necessary modification but otherwise reproduced substantially
@@ -17433,35 +16684,21 @@
        <text>It might be suggested that the Rules Committee had overlooked this provision when they
         drew up the 1980 Rules, but such a thought would be clearly unsustainable when one proceeds
         to consider that the Rules Committee under <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="17"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 17 </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964 consists of no lesser personalities than the
         Lord President, the two Chief Justices of the High Courts (as they were then known), judges
@@ -17541,35 +16778,21 @@
       <p>
        <text>The intention of our legislature is manifest from the wordings of s 25 and our <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> and also by comparison with the pre and post-1977 English rules, that is, our O
         53 is meant for quashing the lower court&apos;s or tribunal&apos;s order only and not for
@@ -17684,35 +16907,21 @@
       <p>
        <text>The next argument from DatO&apos; Lingam which also found favour in the learned Chief
         Justice&apos;s judgment is on O 92 r 4 of the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>. Citations from two Malaysian cases were reproduced in the judgment. The first by
         Edgar Joseph J (as he then was) in <emph typestyle="it">Pacific Centre Sdn Bhd v United
@@ -17808,31 +17017,19 @@
        <p>
         <text>In my view, having regard to the principles enunciated in the cases cited, the
           <ci:cite searchtype="LEG-REF">
-
           <ci:sesslaw>
-
            <ci:sesslawinfo>
-
             <ci:jurisinfo>
-
              <ci:my/>
-
             </ci:jurisinfo>
-
             <ci:hier>
-
              <ci:hierlev label="act" num="0177"> </ci:hierlev>
-
             </ci:hier>
-
            </ci:sesslawinfo>
-
            <ci:sesslawref>
-
             <ci:standardname normpubcode="USM_PA"/>
            </ci:sesslawref>
           </ci:sesslaw>
-
           <ci:content>Industrial Relations Act </ci:content>
          </ci:cite>, being a social legislation enacted with the prime object of attaining social
          justice and industrial peace, <emph typestyle="it">demands practical and realistic
@@ -17847,35 +17044,21 @@
       <p>
        <text>The citation, as I see it, is a general remark on the interpretation of <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0177">
-
              <ci:hierlev label="section" num="30"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 30(7) </ci:content>
         </ci:cite> of the Industrial Relations Act 1967 rather than on the inherent powers of the
         court and so is the next cited case, ie <emph typestyle="it">Nothman v Barnet London Borough
@@ -18025,35 +17208,21 @@
        <p>
         <text>Has the court any jurisdiction to exercise its inherent powers in the instant case?
           <ci:cite searchtype="LEG-REF">
-
           <ci:sesslaw>
-
            <ci:sesslawinfo>
-
             <ci:jurisinfo>
-
              <ci:my/>
-
             </ci:jurisinfo>
-
             <ci:hier>
-
              <ci:hierlev label="local-rule" num="pua0050">
-
               <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
              </ci:hierlev>
-
             </ci:hier>
-
            </ci:sesslawinfo>
-
            <ci:sesslawref>
-
             <ci:standardname normpubcode="USM_SL"/>
            </ci:sesslawref>
           </ci:sesslaw>
-
           <ci:content>Order 92 r 4 </ci:content>
          </ci:cite> of the RHC provides: <page reporter="mlj" count="217" text="1997 1 MLJ 145 at "
           subdoc="true"/>
@@ -18110,35 +17279,21 @@
         </ci:cite>, Hedge J when commenting on the inherent powers of s 151 of the Indian Civil
         Procedure Code which is of similar effect to our O 92 r 4 of the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> stated as follows: </text>
 
@@ -18215,35 +17370,21 @@
       <p>
        <text>In my opinion, the inherent powers of the court as provided under O 92 r 4 of the
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> must not only be exercised subject to other express provision of the Rules but it
         must also not be in conflict with the intention of the legislature to be found within the
@@ -18289,35 +17430,21 @@
        <text>With respect, I am unable to agree. The appellant &#x2013; or in any event, his counsel
         &#x2013; must have been aware of the two courses of action open to the appellant, ie to
         resort to the remedy by reference to the High Court under <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0177">
-
              <ci:hierlev label="section" num="33a"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 33A </ci:content>
         </ci:cite> of the Industrial Relations Act 1967 or to quash the Industrial Court&apos;s
         order under certiorari. He chose the latter and so should be satisfied with the resulting
@@ -18337,31 +17464,19 @@
 
       <p>
        <text>The legislature in its own wisdom has enacted the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0177"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Industrial Relations Act 1967 </ci:content>
         </ci:cite> which provides for a specialized tribunal to deal with that particular
         relationship existing between employers and their employees and in respect thereto has
@@ -18372,89 +17487,51 @@
         power of Judicial Review, the powers to exercise supervisory but not appellate jurisdiction.
         The nature of the supervisory power and the exclusion of appellate jurisdiction are to be
         found in various legislations, such as the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0177"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Industrial Relations Act 1967 </ci:content>
         </ci:cite>, the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite>, the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> and a multitude of undisputed judicial precedents. Under such circumstances, is
         it wise for us to invoke the rules of interpretation or the use of inherent powers to bring
@@ -18690,35 +17767,21 @@
       <p>
        <text>Firstly, the dissenting judgment has laid much stress on the provisions of the proviso
         to <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="25"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 25(2) </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964 (&#x0027;the proviso to s 25(2)&#x0027;)
         which reads: </text>
@@ -18739,67 +17802,39 @@
       <p>
        <text>It argues that the proviso to s 25(2) is restrictive and specifies the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>, to which s 25(2) is subject. It points out that under O 53 of the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>, our courts are only empowered in appropriate circumstances, to grant the usual
         prerogative orders, for example, it can quash an impugned order and, if necessary, send the
@@ -18811,35 +17846,21 @@
       <p>
        <text>The dissenting judgment further argues, that although in the United Kingdom, since the
         introduction in 1977 of the new <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>O 53 </ci:content>
         </ci:cite> of the Rules of the Supreme Court, the courts there are empowered to grant a
         declaration or an injunction or damages or a combination of these remedies yet, in this
@@ -18967,31 +17988,19 @@
        <text>Most importantly, it is obvious that the provisions of the proviso to s 25(2) do not
         affect the <emph typestyle="it">powers </emph> of the court referred to in para 1 of the
         Schedule to the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite> (&#x0027;the Schedule&#x0027;); they merely control their <emph typestyle="it"
          >exercise </emph> by stipulating that they shall be exercised in accordance with any
@@ -19072,35 +18081,21 @@
       <p>
        <text>The next topic to be logically considered in this context, is the status of the
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>. </text>
 
@@ -19108,31 +18103,19 @@
 
       <p>
        <text>By s 17(1) of the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite>, powers are conferred upon the Rules Committee to make &#x0027;rules of
         court&#x0027; <emph typestyle="it">for the purpose of regulating and prescribing the
@@ -19160,35 +18143,21 @@
       <p>
        <text>I am fortified in the view I take regarding the legal status of the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> by the following passages in 37 <emph typestyle="it">Halsbury&apos;s Laws </emph>
         (4th Ed) para 10: </text>
@@ -19268,67 +18237,39 @@
         relief in Judicial Review proceedings is the prerogative jurisdiction inherited from the
         United Kingdom courts and, most importantly, para 1 of the Schedule read with <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="25"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 25 </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964. The proviso to s 25(2), and more
         particularly, the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>, do not &#x2013; and indeed cannot &#x2013; narrow down or diminish or curtail
         the scope of the <emph typestyle="it">powers </emph> conferred upon our courts in Judicial
@@ -19355,31 +18296,19 @@
         to find that the Employee has been dismissed from service without just cause or excuse, as
         this was a question of fact for the Industrial Court by virtue of the <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0177"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Industrial Relations Act 1967 </ci:content>
         </ci:cite>. </text>
 
@@ -19705,35 +18634,21 @@
         only from the prerogative jurisdiction inherited from the courts in the United Kingdom but,
         most importantly, from the provisions of para 1 of the Schedule read with <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="25"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 25 </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964 which confer on our courts far wider powers
         than those enjoyed by the courts in the United Kingdom. </text>
@@ -19839,31 +18754,19 @@
         <text>I now turn to consider the second and perhaps wider basis of the High Court&apos;s
          power in the field of public law remedies. It is para 1 of the Schedule to the <ci:cite
           searchtype="LEG-REF">
-
           <ci:sesslaw>
-
            <ci:sesslawinfo>
-
             <ci:jurisinfo>
-
              <ci:my/>
-
             </ci:jurisinfo>
-
             <ci:hier>
-
              <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
             </ci:hier>
-
            </ci:sesslawinfo>
-
            <ci:sesslawref>
-
             <ci:standardname normpubcode="USM_PA"/>
            </ci:sesslawref>
           </ci:sesslaw>
-
           <ci:content>Courts of Judicature Act 1964 </ci:content>
          </ci:cite> (&#x0027;the Schedule&#x0027;) which reads as follows: </text>
 
@@ -20149,68 +19052,40 @@
        <text>The present appeal from the judgment of the High Court was brought by a notice of
         appeal dated and filed on 6 January 1994, and lay directly to the Supreme Court (the
         predecessor of this court) by reason of the provisions of <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="67"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 67(1) </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964, in the form that it took prior to its
         amendment on 24&#xFFFD;June 1994, by the Courts of Judicature (Amendment) Act 1994 (Act
         A886) <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="amendment" num="000886">
-
              <ci:hierlev label="year" num="1994"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_A"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 16(b) </ci:content>
         </ci:cite>, when the words &#x0027;Court of Appeal&#x0027; were substituted for the words
         &#x0027;Supreme Court&#x0027;. </text>
@@ -20220,100 +19095,58 @@
       <p>
        <text>It follows that the powers exercisable by this Court when hearing this appeal from the
         judgment of the High Court would, by reason of <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0388">
-
              <ci:hierlev label="section" num="30"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 30 </ci:content>
         </ci:cite> of the Interpretation Acts 1948 and 1967 (Consolidated and Revised &#x2013;
         1989), be the powers provided for by <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="69"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>sub-s (4) of s 69 </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964 in the form that it took prior to its
         amendment on 24 June 1994 by the Courts of Judicature (Amendment) Act 1994 (Act A886)
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="amendment" num="000886">
-
              <ci:hierlev label="year" num="1994"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_A"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 16(b) </ci:content>
         </ci:cite> when the words &#x0027;Court of Appeal&#x0027; was substituted for the words
         &#x0027;Supreme Court&#x0027;, which gives this court power not only to <emph typestyle="it"
@@ -20342,67 +19175,39 @@
           <citefragment searchtype="CASE-CITE-REF"> &#x005B;1970&#x005D; 2 MLJ 226 </citefragment>
          </ci:content>
         </ci:cite>). <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="pua0152">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rule 51(4) </ci:content>
         </ci:cite> of the Rules of the Supreme Court 1980, (in pari materia with <ci:cite
          searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="69"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>sub-s (4) of s 69 </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964 in the form that it took prior to its
         amendment aforesaid) and applicable to the present appeal by reason of r 138 of the Federal
@@ -21215,63 +20020,37 @@
         power of the High Court in Judicial Review proceedings is conferred by the Constitution, to
         wit, Art 226, in this country, the source of such power is an ordinary Act of Parliament, to
         wit, the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091"> </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Courts of Judicature Act 1964 </ci:content>
         </ci:cite>, and so can be modified by another Act of Parliament, as for instance, the
          <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>. </text>
 
@@ -21279,70 +20058,42 @@
 
       <p>
        <text>I had, when discussing the status of the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>, quoted 37 <emph typestyle="it">Halsbury&apos;s Laws </emph> (4th Ed) para 10,
         which it will be recalled, shows that although the Rules are a form of delegated
         legislation, &#x0027;their function is to regulate the machinery of litigation; they cannot
         confer or <emph typestyle="it">take away or alter or diminish </emph> any existing
         jurisdiction or any existing rights or duties&#x0027;. The <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite> cannot therefore extend into the area of substantive law and the powers of the
         court in Judicial Review proceedings fall within the area of substantive law, to wit, para 1
@@ -21353,35 +20104,21 @@
       <p>
        <text>With respect, therefore, the powers of the court under para 1 of the Schedule cannot be
         modified by the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>. I would also, in answer, pray in aid my comments on the proviso to s 25(2) and
         its effect, which appear at pp 220I&#x2014;224A. </text>
@@ -21404,35 +20141,21 @@
         <p>
          <text>it was open to the Employee to have proceeded by way of Reference under <ci:cite
            searchtype="LEG-REF">
-
            <ci:sesslaw>
-
             <ci:sesslawinfo>
-
              <ci:jurisinfo>
-
               <ci:my/>
-
              </ci:jurisinfo>
-
              <ci:hier>
-
               <ci:hierlev label="act" num="0177">
-
                <ci:hierlev label="section" num="33a"> </ci:hierlev>
-
               </ci:hierlev>
-
              </ci:hier>
-
             </ci:sesslawinfo>
-
             <ci:sesslawref>
-
              <ci:standardname normpubcode="USM_PA"/>
             </ci:sesslawref>
            </ci:sesslaw>
-
            <ci:content>s 33A </ci:content>
           </ci:cite> of the Industrial Relations Act 1967, or by way of Judicial Review under O 53.
           Had the Employee chosen the former course, the High Court would have had full appellate
@@ -21490,35 +20213,21 @@
         <p>
          <text>The Employee was bound to have succeeded had he proceeded by way of a reference to
           the High Court pursuant to the provisions of <ci:cite searchtype="LEG-REF">
-
            <ci:sesslaw>
-
             <ci:sesslawinfo>
-
              <ci:jurisinfo>
-
               <ci:my/>
-
              </ci:jurisinfo>
-
              <ci:hier>
-
               <ci:hierlev label="act" num="0177">
-
                <ci:hierlev label="section" num="33a"> </ci:hierlev>
-
               </ci:hierlev>
-
              </ci:hier>
-
             </ci:sesslawinfo>
-
             <ci:sesslawref>
-
              <ci:standardname normpubcode="USM_PA"/>
             </ci:sesslawref>
            </ci:sesslaw>
-
            <ci:content>s&#xFFFD;33A </ci:content>
           </ci:cite> of the Industrial Relations Act 1967. </text>
 
@@ -21565,35 +20274,21 @@
        <text>Having said that, I must add that, although our High Courts are vested with broad and
         ample powers under para 1 of the Schedule, this is not to say, that there are no differences
         between their powers when hearing a Reference under <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0177">
-
              <ci:hierlev label="section" num="33a"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 33A </ci:content>
         </ci:cite> of the Industrial Relations Act 1967, as compared to an application for Judicial
         Review under O 53. Indeed, the differences are most material. <page reporter="mlj"
@@ -21734,35 +20429,21 @@
       <p>
        <text>Sixthly, the dissenting judgment has criticized reliance on the inherent jurisdiction
         of the High Court, of which we are reminded by <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="pua0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>O 92 r 4 </ci:content>
         </ci:cite> of the Rules of High Court 1980. It argues (at p 219G&#x2014;H): </text>
 
@@ -21947,35 +20628,21 @@
          </ci:case>
         </ci:cite> (Divorce Petition No 94 of 1993), Coomarasamy J put O 92 r 4 (RSC) and O 79 r 4
         (SCR), (identically worded to our O 92 r 4 of the <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="local-rule" num="PUA0050">
-
              <ci:hierlev label="year" num="1980"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_SL"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>Rules of the High Court 1980 </ci:content>
         </ci:cite>) in its correct perspective when he said: </text>
 
@@ -22048,35 +20715,21 @@
         of the court&apos;s inherent power though its extent may be determined not merely by
         judicial development but also by legislative intervention, as for example, para 1 of the
         Schedule read together with <ci:cite searchtype="LEG-REF">
-
          <ci:sesslaw>
-
           <ci:sesslawinfo>
-
            <ci:jurisinfo>
-
             <ci:my/>
-
            </ci:jurisinfo>
-
            <ci:hier>
-
             <ci:hierlev label="act" num="0091">
-
              <ci:hierlev label="section" num="25"> </ci:hierlev>
-
             </ci:hierlev>
-
            </ci:hier>
-
           </ci:sesslawinfo>
-
           <ci:sesslawref>
-
            <ci:standardname normpubcode="USM_PA"/>
           </ci:sesslawref>
          </ci:sesslaw>
-
          <ci:content>s 25 </ci:content>
         </ci:cite> of the Courts of Judicature Act 1964. </text>
 

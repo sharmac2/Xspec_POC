@@ -85,7 +85,7 @@
             <xd:b>Target: </xd:b>\schema_modeling\sharedservices\lexisadvance\rootschemas\xxx\xxxxx.rng version x.y_PROD</xd:p>
       </xd:desc>
    </xd:doc>
-   <xsl:output indent="yes"/>
+   <xsl:output indent="no"/>
    <!-- map  MY01 Rosetta CASEDOC to LxAdv courtcase  -->
    <xsl:key name="idTypeValue" match="*[@id]" use="@id"/>
    <xsl:key name="idTypeValue" match="*[@ID]" use="@ID"/>
@@ -2253,7 +2253,7 @@ Disallowed characters: , !, ", #, $, %, &, ', (, ), *, +, ,, /, :, ;, <, =, >, ?
             <xsl:value-of select="normalize-space(translate(., translate(substring-after('0123456789', ''), '', ''), ''))"/>
          </xsl:attribute>
          <xsl:attribute name="source">
-            <xsl:text>conversion</xsl:text>
+            <xsl:text>conversion</xsl:text> <!-- Priya Kaushal added this on 2/22/2018 -->
          </xsl:attribute>
       </xsl:element>
    </xsl:template>
@@ -8931,7 +8931,7 @@ ref:lnlink[@service="DOCUMENT"]. Added this for UK11DN -->
    <xsl:template match="remotelink[@service='DOC-ID'][parent::docinfo:assoc-links or parent::docinfo:assoc-links-grp]">
       <doc:related-content-item>
          <xsl:if test="parent::docinfo:assoc-links[@assoc-content='external-content-location']">
-            <xsl:attribute name="content-type">external-content-location</xsl:attribute>
+            <xsl:attribute name="content-type">internal-content-location</xsl:attribute>
          </xsl:if>
          <doc:related-content-link>
             <ref:lnlink>
